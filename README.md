@@ -10,7 +10,7 @@ I'm also working on my own personal projects such as developing my own website, 
 As I continue in my career, the prospect of becoming a developer in Software Engineering is in sight, and I am determined to endure and overcome these challenges in order to make that prospect come true!
 </p>
 
-<h2> Relevant Classes: </h2>
+<h2><ins> Relevant Classes: </ins></h2>
 
 <h3> CS127 (Introduction to Computer Science) </h3>
 
@@ -42,7 +42,7 @@ Learned basic functions, polynomials, logarithmic functions, exponential functio
 Applied concepts from Pre-Calculus and focused on limits, derivatives, differentiation, anti-derivatives, etc. 
 </p>
 
-<h2> Coding Experience: </h2>
+<h2><ins> Coding Experience: </ins></h2>
 
 
 <h3> Google: Code Next from April 2022 to June 2022 </h3>
