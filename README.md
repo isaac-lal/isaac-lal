@@ -1,6 +1,6 @@
 <h1> Welcome To My GitHub </h1>
 
-<p style = "font-size: 13px">
+<p style = "font-size: 15px">
 Hi! My name is Isaac Lal and I am striving to become a Software Engineer in the future. 
 
 Currently, I’m a lower sophomore at Hunter College and studying Computer Science as my major. On top of being determined to excel in all my classes, I am also working at IT/Coding internships to obtain additional work experience and further progress my skillset.
