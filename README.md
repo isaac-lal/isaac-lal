@@ -6,4 +6,4 @@ Currently, I’m a lower sophomore at Hunter College and studying Computer Scien
 
 As I continue in my career, the prospect of becoming a Software Engineer is in sight, and I am determined to endure and overcome these challenges in order to make that prospect come true!
 
-Proficiency knowledge of programming languages respectfully: Python, JavaScript/TypeScript, C/C++, HTML, CSS, C#, and Java.
+Proficiency knowledge of programming languages respectfully: Python, C/C++, JavaScript, HTML, CSS, C#, and Java.
