@@ -1,9 +1,9 @@
 # Welcome To My GitHub 
 
-Hi! My name is Isaac Lal, and I am striving to become a Developer in the future.
+Hi! My name is Isaac Lal, and I'm striving to become a Software Developer in the future.
 
-I’m a lower sophomore at Hunter College and studying Computer Science as my major. On top of being determined to excel in all my classes, I am gaining outside coding experience through internships, programs, and courses to progress my skillset further. In addition, I’m working on projects such as developing my own personal website portfolio.
+Currently, I attend Hunter College as a lower sophomore and studying Computer Science as my major. On top of being determined to excel in all my classes, gaining outside coding experience through working at internships, programs, and courses helps me to progress my skillset further. In addition, I'm also working on projects such as developing my own personal website portfolio.
 
-As I continue in my career, I am determined to constantly learn every day and overcome obstacles to make my prospect of becoming a developer come true!
+As I continue in my career, I am determined to constantly learn every day and overcome obstacles to make my prospect of becoming a Software Developer come true!
 
-Proficiency knowledge of programming languages respectfully: Python, HTML, CSS, JavaScript, C/C++, C#, and Java.
+Proficiency knowledge of programming languages respectfully: Python, C/C++, JavaScript, C#, Java, HTML, and CSS.
