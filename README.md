@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">👋Welcome, I'm Isaac Lal!👋</h1>
-<h2 align="center">🔥Upcoming Software Developer🔥</h2>
+<h3 align="center">🔥Upcoming Software Developer🔥</h3>
 
 <p align="center">
 Currently, I attend Hunter College as a lower sophomore and studying Computer Science as my major. On top of being determined to excel in all my classes, gaining outside coding experience through working at internships, programs, and courses helps me to progress my skillset further. In addition, I'm also working on projects such as developing my own personal website portfolio.</p>
@@ -11,11 +11,11 @@ As I continue in my career, I am determined to constantly learn every day and ov
 <!-- INFO -->
 <h3 align="left">General</h3>
 
-- 🔭 Currently working on my personal website: [isaaclal.com](isaaclal.com)
+- 🔭 Working on my personal website: [isaaclal.com](isaaclal.com)
 
-- 🌱 Learning about **C++ in my CS135 Course at Hunter College**
+- 📕 Learning about **C++ in my CS135 Course at Hunter College**
 
-- 📕 Goal for the future: become a **Full Stack Web Developer**
+- 💼 Career Path: **Full Stack Web Developer**
 
 - 👨‍💻 Projects are available at [https://github.com/isaac-lal](https://github.com/isaac-lal)
 
@@ -37,10 +37,10 @@ As I continue in my career, I am determined to constantly learn every day and ov
 
 <h3 align="left">Tools & Frameworks</h3>
 <p align="left">
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
 <!-- SOCIALS -->
 <h3 align="left">Socials</h3>
