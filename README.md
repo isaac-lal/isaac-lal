@@ -13,7 +13,7 @@ As I continue in my career, I am determined to constantly learn every day and ov
 
 - 🔭 Working on my personal website: [isaaclal.com](isaaclal.com)
 
-- 📕 Learning about **C++ in my CS135 Course at Hunter College**
+- 📕 Learning about **C++ in my CSCI 135 Course at Hunter College**
 
 - 💼 Career Path: **Full Stack Web Developer**
 
