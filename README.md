@@ -48,7 +48,7 @@ As I continue in my career, I am determined to constantly learn every day and ov
 <a href="https://linkedin.com/in/isaac-lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isaac-lal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18485843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18485843" height="30" width="40" /></a>
 <a href="https://instagram.com/lalify8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lalify8" height="30" width="40" /></a>
-<a href="https://discord.gg/Lalify8#4715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lalify8#4715" height="30" width="40" /></a>
+<a href="https://discord.gg/y2MM42dP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Lalify8's server" height="30" width="40" /></a>
 </p>
 
 <!-- STATS -->
