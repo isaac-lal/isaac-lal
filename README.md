@@ -13,7 +13,7 @@ As I continue in my career, I am determined to constantly learn every day and ov
 
 - 🔭 I’m currently working on my personal website: [isaaclal.com](isaaclal.com)
 
-- 🌱 I’m currently learning about: **Full Stack Web Development**
+- 🌱 I’m currently learning about: **Full Stack Web Development & C++ in my CS135 Course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/isaac-lal](https://github.com/isaac-lal)
 
