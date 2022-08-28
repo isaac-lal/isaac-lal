@@ -15,7 +15,7 @@ As I continue in my career, I am determined to constantly learn every day and ov
 
 - 📕 Learning about **C++ in my CSCI 135 Course at Hunter College**
 
-- 💼 Career Path: **Full Stack Web Developer**
+- 💼 Potential Software Development Career Path: **Full Stack Web Developer**
 
 - 👨‍💻 Projects are available at [https://github.com/isaac-lal](https://github.com/isaac-lal)
 
