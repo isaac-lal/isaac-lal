@@ -1,4 +1,4 @@
-<!-- HEADER -->
+<!-- INTRO -->
 <h1 align="center">👋Welcome, I'm Isaac Lal!👋</h1>
 <h3 align="center">🔥Upcoming Software Developer🔥</h3>
 
@@ -8,8 +8,8 @@ Currently, I attend Hunter College as a lower sophomore and studying Computer Sc
 <p align="center">
 As I continue in my career, I am determined to constantly learn every day and overcome obstacles to make my prospect of becoming a Software Developer come true!</p>
 
-<!-- INFO -->
-<h3 align="left">General</h3>
+<!-- ABOUT -->
+<h3 align="left">About</h3>
 
 - 🔭 Working on my personal website: [isaaclal.com](isaaclal.com)
 
@@ -21,7 +21,7 @@ As I continue in my career, I am determined to constantly learn every day and ov
 
 - 📫 Reach me at: **isaaclal124@gmail.com**
 
-<!-- SKILLS -->
+<!-- PROGRAMMING LANGUAGES -->
 <h3 align="left">Programming Languages</h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -35,6 +35,7 @@ As I continue in my career, I am determined to constantly learn every day and ov
 <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 </p>
 
+<!-- TOOLS & FRAMEWORKS -->
 <h3 align="left">Tools & Frameworks</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
