@@ -1,5 +1,5 @@
 <!-- INTRO -->
-<h1 align="center">Hey there! My name is Isaac Lal 👋</h1>
+<h1 align="center">Hello there! My name is Isaac Lal 👋</h1>
 
 <p align="center">
 I'm striving to become a Software Developer specializing in Full Stack Web Development. This career path includes learning both the front-end, the visual experience of a website, and the back-end, which is the process that happens behind the scenes. Web Development has always interested me because I can create an interactive product for users to enjoy while gradually improving upon it.</p>
