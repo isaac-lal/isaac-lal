@@ -1,10 +1,5 @@
 <!-- INTRO -->
-<h1 align="center">Hello there! 
-  
-<h2 align="center">Welcome to my GitHub. All of my repositories contain all of the code that I have done throughout my journey as a programmer. Enjoy!</h2>
-
-<!-- ABOUT -->
-<h2 align="center">About</h2>
+<h1 align="center">Hello there! </h1>
 
 <p>
 My name is Isaac Lal. I'm striving to become a Web Developer specializing in Full-Stack. This involves knowing the front-end and back-end of a website. 
