@@ -2,7 +2,6 @@
 <h1 align="center">Hello there! 👋</h1>
 
 <h3 align="center">Welcome to my GitHub!</h3>
-  
 <h3 align="center">This is where you can find a collection of all my code. Enjoy!</h3>
 <!-- ABOUT -->
 <h2 align="left">About</h2>
