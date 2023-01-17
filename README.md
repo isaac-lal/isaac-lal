@@ -1,7 +1,8 @@
 <!-- INTRO -->
 <h1 align="center">Hello there! 
   
-<h2 align="center">Welcome to my GitHub. Everything you see here is a collection of all my code, ranging from both good and bad. Enjoy!</h2>
+<h2 align="center">Welcome to my GitHub. All of my repositories contain all of the code that I have done throughout my journey as a programmer. Enjoy!</h2>
+
 <!-- ABOUT -->
 <h2 align="center">About</h2>
 
