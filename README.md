@@ -1,12 +1,11 @@
 <!-- INTRO -->
 <h1 align="center">Hello there! 👋</h1>
 
-<p align="center">
-Welcome to my GitHub!
+<h3 align="center">Welcome to my GitHub!</h3>
   
-This is where you can find a collection of all my code. Enjoy!
+<h3 align="center">This is where you can find a collection of all my code. Enjoy!</h3>
 <!-- ABOUT -->
-<h3 align="left">About</h3>
+<h2 align="left">About</h2>
 
 - 🔭 Working on my personal website: [isaaclal.com](isaaclal.com)
 
