@@ -1,22 +1,16 @@
 <!-- INTRO -->
-<h1 align="center">Hello there! My name is Isaac Lal 👋</h1>
+<h1 align="center">Hello there! 👋</h1>
 
 <p align="center">
-I'm striving to become a Software Developer specializing in Full Stack Web Development. This career path includes learning both the front-end, the visual experience of a website, and the back-end, which is the process that happens behind the scenes. Web Development has always interested me because I can create an interactive product for users to enjoy while gradually improving upon it.</p>
-
-<p align="center">
-As for my plan, I currently attend Hunter College as a lower sophomore and studying Computer Science as my major. Furthermore, I'm also developing personal projects such as building my website portfolio, creating an e-commerce platform, freelancing for multiple clients, and helping friends and family push their interests into a website displaying their work.</p>
-
-<p align="center">
-Pursuing Web Development as my career path has motivated me to continue advancing my skillset to create more enjoyable products and a great user experience. I hope that you enjoy the work that I compose!
-</p>
-
+Welcome to my GitHub!
+  
+This is where you can find a collection of all my code. Enjoy!
 <!-- ABOUT -->
 <h3 align="left">About</h3>
 
 - 🔭 Working on my personal website: [isaaclal.com](isaaclal.com)
 
-- 📕 Currently learning about **Front End Design: HTML, CSS, and JavaScript**
+- 📕 Currently learning about **React & Tailwind CSS**
 
 - 👨‍💻 Projects are available at [https://github.com/isaac-lal](https://github.com/isaac-lal)
 
