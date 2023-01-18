@@ -1,25 +1,12 @@
-<!-- INTRO -->
-<h1 align="center">Hello there! </h1>
+# 🔥 Isaac Lal 🔥
 
-<p>
-My name is Isaac Lal. I'm striving to become a Web Developer specializing in Full-Stack. This involves knowing the front-end and back-end of a website. 
-  
-  
-I am currently learning about the MERN stack, which involves MongoDB, ExpressJS, React, and NodeJS. 
-  
-  
-</p>
-  
-- 🔭 Working on my personal website: [isaaclal.com](isaaclal.com)
+**`Web Developer`**
 
-- 📕 Currently learning about **React & Tailwind CSS**
+<h4>I'm striving to become a Full-Stack Web Developer by learning about the front-end and back-end of a website. This involves learning about the design and functionality of the user experience for the front-end aspect, then transitioning to learning about the server-side process of managing data.</h4>
+  
 
-- 👨‍💻 Projects are available at [https://github.com/isaac-lal](https://github.com/isaac-lal)
 
-- 📫 Reach me at: **isaaclal124@gmail.com**
-
-<!-- PROGRAMMING LANGUAGES -->
-<h3 align="left">Front-End</h3>
+<h3 align="left">🖥️ Front-End</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 </p>
@@ -33,6 +20,16 @@ I am currently learning about the MERN stack, which involves MongoDB, ExpressJS,
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
+
+<h3 align="left">🗄️ Back-End</h3>
+  
+- 🔭 Working on my personal website: [isaaclal.com](isaaclal.com)
+
+- 📕 Currently learning about **React & Tailwind CSS**
+
+- 👨‍💻 Projects are available at [https://github.com/isaac-lal](https://github.com/isaac-lal)
+
+- 📫 Reach me at: **isaaclal124@gmail.com**
 
 
 <!-- SOCIALS -->
