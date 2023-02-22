@@ -6,22 +6,22 @@
   
 ---
 
-<h3 align="left">🖥️ Front-End</h3>
+<h3 align="left">🖥️ Technologies</h3>
 <p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDB" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="50" height="50"/>
+          
+          
+          
 </p>
-
-<p align="left">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-</p>
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
-
-<h3 align="left">🗄️ Back-End</h3>
 
 
 <h3 align="left">📝 Learning</h3>
@@ -51,4 +51,4 @@ Currently, I am learning about React and Tailwind CSS. Since I had finished unde
 
 <details>
  <summary><h3>👨‍💻 Isaac's Coding Journey</h3></summary>
-   Growing up, I was always interested in the technology around me. Despite not having many resources to understand techno
+  I was always fascinated with websites ever since I was a kid watching videos on youtube.com, searching things up on google.com, playing games on multiple websites, and more. I loved how technology made the ideas of websites come to life, but I never really understood how it was made. I knew I wanted to be a part of the process for years, but I really haven't gotten my head engaged in it until August 2022. With the goal of creating my own professional website, I had decided to learn about HTML and CSS to start. These two technologies helped me to create a very basic website with limited functionality, but still looked decent. After that, I have devoted most of my time in mastering JavaScript and learning about Data Structures & Algorithms. After JavaScript was done, I am now using my time to learn the ins and outs of React and Tailwind CSS, which are the technologies being used to make this website. In my experience in being a front-end developer, I have loved all the technologies that I am using and how it's evolving my creativity and making me more efficient overall. I am now mastering my craft in front-end development and I am slowly going to dabble in the back-end to try to become a full-stack developer. But for now, I am loving Web Development and it really helps me to appreciate the product that I create in the end.
