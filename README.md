@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-<h4>I'm striving to become a Full-Stack Web Developer by learning about the front-end and back-end of a website. This involves learning about the design and functionality of the user experience for the front-end aspect, then transitioning to learning about the server-side process of managing data.</h4>
+<h4>I'm learning about the technologies used to build beautiful, stunning, and responsive websites to show to others. I currently specialize in front-end visual aspects of the website, and I am continuing to learn more tools to master my understanding in the art of designing a website.</h4>
   
 ---
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">📝 Learning</h3>
 <p>
-Currently, I am learning about React and Tailwind CSS. Since I had finished understanding the fundamentals of HTML, regular CSS, and vanilla JavaScript, learning about React and Tailwind CSS is the next step in my front-end journey for Web Development. I am using these technologies in a completely redesigned website that I am building to test my skills. After I finish understanding React and Tailwind CSS, I will move onto learning about the back-end which contains learning a NoSQL database like MongoDB, having an understanding about ExpressJS, and using Node.js. Of course, I will take it step-by-step along the journey and make sure that I master my craft before moving on to the next step. 
+Currently, I am learning about React and Tailwind CSS. Since I had finished understanding the fundamentals of HTML, regular CSS, and vanilla JavaScript, learning about React and Tailwind CSS is the next step in my journey for Web Development. I am using these technologies in a completely redesigned website that I am building to test my skills. After I finish understanding React and Tailwind CSS, I will move onto learning about Next.js as the next step and continue to find more evolving technologies to learn about to make the front-end process easier. 
   
 <!-- SOCIALS -->
 <h3 align="left">📱 Socials</h3>
@@ -48,4 +48,8 @@ Currently, I am learning about React and Tailwind CSS. Since I had finished unde
 
 <details>
  <summary><h3>👨‍💻 Isaac's Coding Journey</h3></summary>
-  I was always fascinated with websites ever since I was a kid watching videos on youtube.com, searching things up on google.com, playing games on multiple websites, and more. I loved how technology made the ideas of websites come to life, but I never really understood how it was made. I knew I wanted to be a part of the process for years, but I really haven't gotten my head engaged in it until August 2022. With the goal of creating my own professional website, I had decided to learn about HTML and CSS to start. These two technologies helped me to create a very basic website with limited functionality, but still looked decent. After that, I have devoted most of my time in mastering JavaScript and learning about Data Structures & Algorithms. After JavaScript was done, I am now using my time to learn the ins and outs of React and Tailwind CSS, which are the technologies being used to make this website. In my experience in being a front-end developer, I have loved all the technologies that I am using and how it's evolving my creativity and making me more efficient overall. I am now mastering my craft in front-end development and I am slowly going to dabble in the back-end to try to become a full-stack developer. But for now, I am loving Web Development and it really helps me to appreciate the product that I create in the end.
+  I was always fascinated with websites ever since I was a kid watching videos on youtube.com, searching things up on google.com, playing games on multiple websites, and more. I loved how technology made the ideas of websites come to life, but I never really understood how it was made. I knew I wanted to be a part of the process for years, but I really haven't gotten my head engaged in it until August 2022.
+
+With the goal of creating my own professional website, I had decided to learn about HTML and CSS to start. These two technologies helped me to create a very basic website with limited functionality, but still looked decent. After that, I have devoted most of my time in mastering JavaScript and concepts like if-statements, for-loops, logic, and transitioning into learning about Data Structures & Algorithms, along with the Document Object Model (DOM). After JavaScript was done, I am now using my time to learn everything about React and styling with Tailwind CSS.
+
+In my experience being a front-end developer, I have loved all the technologies that I am using and how it's evolving my creativity and making me more efficient overall and unlocking my designing potential. I am now mastering my craft in front-end development by learning Next.js and other tools that will speed up the production of design. I definitely am loving the process of Web Development and it really helps me to appreciate the product that I create in the end.
