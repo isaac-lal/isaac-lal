@@ -38,15 +38,15 @@ Currently, I am learning about React and Tailwind CSS. Since I had finished unde
 
 <!-- STATS -->
 <h3 align="left">📊 Statistics</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaac-lal&label=Profile%20views&color=0e75b6&style=flat" alt="isaac-lal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaaclal124&label=Profile%20views&color=0e75b6&style=flat" alt="isaaclal124" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaac-lal" alt="isaac-lal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isaaclal124" alt="isaaclal124" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaac-lal&show_icons=true&locale=en&layout=compact" alt="isaac-lal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaclal124&show_icons=true&locale=en&layout=compact" alt="isaaclal124" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaac-lal&show_icons=true&locale=en" alt="isaac-lal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaaclal124&show_icons=true&locale=en" alt="isaaclal124" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-lal&" alt="isaac-lal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaaclal124&" alt="isaaclal124" /></p>
 
 <details>
  <summary><h3>👨‍💻 Isaac's Coding Journey</h3></summary>
