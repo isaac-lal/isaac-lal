@@ -49,6 +49,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
+![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)
+    
 <h3 align="left">📝 Learning</h3>
 <p>
 Currently, I am learning about React and Tailwind CSS. Since I had finished understanding the fundamentals of HTML, regular CSS, and vanilla JavaScript, learning about React and Tailwind CSS is the next step in my journey for Web Development. I am using these technologies in a completely redesigned website that I am building to test my skills. After I finish understanding React and Tailwind CSS, I will move onto learning about Next.js as the next step and continue to find more evolving technologies to learn about to make the front-end process easier. 
