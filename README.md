@@ -29,7 +29,7 @@
 </p>
 -->
 
-### 🖥️ Front-End Technologies
+### 🖥️ Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -40,17 +40,9 @@
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-
-### 🗄️ Back-End Technologies
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
 
-![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)
-    
 <h3 align="left">📝 Learning</h3>
 <p>
 Currently, I am learning about React and Tailwind CSS. Since I had finished understanding the fundamentals of HTML, regular CSS, and vanilla JavaScript, learning about React and Tailwind CSS is the next step in my journey for Web Development. I am using these technologies in a completely redesigned website that I am building to test my skills. After I finish understanding React and Tailwind CSS, I will move onto learning about Next.js as the next step and continue to find more evolving technologies to learn about to make the front-end process easier. 
