@@ -27,7 +27,8 @@
 </p>
 -->
 
-### 🖥️ Technologies
+<h3> 🖥️ Technologies </h3>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -75,8 +76,8 @@ Currently, I am learning about React and Tailwind CSS. Since I had finished unde
 
 <details>
  <summary><h3>👨‍💻 Isaac's Coding Journey</h3></summary>
-  I was always fascinated with websites ever since I was a kid watching videos on youtube.com, searching things up on google.com, playing games on multiple websites, and more. I loved how technology made the ideas of websites come to life, but I never really understood how it was made. I knew I wanted to be a part of the process for years, but I really haven't gotten my head engaged in it until August 2022.
+  <p>I was always fascinated with websites ever since I was a kid watching videos on youtube.com, searching things up on google.com, playing games on multiple websites, and more. I loved how technology made the ideas of websites come to life, but I never really understood how it was made. I knew I wanted to be a part of the process for years, but I really haven't gotten my head engaged in it until August 2022.</p>
 
-With the goal of creating my own professional website, I had decided to learn about HTML and CSS to start. These two technologies helped me to create a very basic website with limited functionality, but still looked decent. After that, I have devoted most of my time in mastering JavaScript and concepts like if-statements, for-loops, logic, and transitioning into learning about Data Structures & Algorithms, along with the Document Object Model (DOM). After JavaScript was done, I am now using my time to learn everything about React and styling with Tailwind CSS.
+<p>With the goal of creating my own professional website, I had decided to learn about HTML and CSS to start. These two technologies helped me to create a very basic website with limited functionality, but still looked decent. After that, I have devoted most of my time in mastering JavaScript and concepts like if-statements, for-loops, logic, and transitioning into learning about Data Structures & Algorithms, along with the Document Object Model (DOM). After JavaScript was done, I am now using my time to learn everything about React and styling with Tailwind CSS.</p>
 
-In my experience being a front-end developer, I have loved all the technologies that I am using and how it's evolving my creativity and making me more efficient overall and unlocking my designing potential. I am now mastering my craft in front-end development by learning Next.js and other tools that will speed up the production of design. I definitely am loving the process of Web Development and it really helps me to appreciate the product that I create in the end.
+<p>In my experience being a front-end developer, I have loved all the technologies that I am using and how it's evolving my creativity and making me more efficient overall and unlocking my designing potential. I am now mastering my craft in front-end development by learning Next.js and other tools that will speed up the production of design. I definitely am loving the process of Web Development and it really helps me to appreciate the product that I create in the end.</p>
