@@ -4,8 +4,6 @@
 
 <h4>I'm learning about the technologies used to build beautiful, stunning, and responsive websites to show to others. I currently specialize in front-end visual aspects of the website, and I am continuing to learn more tools to master my understanding in the art of designing a website.</h4>
 
-<h4>The projects that are pinned to my profile are polished and completed. I believe that they are best representative of my skill. Check them out!
-
 <p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <img src="https://komarev.com/ghpvc/?username=isaaclal124&label=Profile%20views&color=0e75b6&style=flat"
@@ -42,6 +40,18 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+
+<h3>👔 Polished Repositories</h3>
+
+<h4>Portfolio Website: https://github.com/isaaclal124/portfolio-website</h4>
+<h4>Calculator: </h4>
+<h4>Weather App: </h4>
+<h4>E-Commerce Website: </h4>
+<h4>Netflix Clone: https://github.com/isaaclal124/netflix-clone</h4>
+<h4>Twitter Clone: https://github.com/isaaclal124/twitter-clone</h4>
+<h4>Spotify Clone: https://github.com/isaaclal124/spotify-clone</h4>
+<h4>YouTube Clone: https://github.com/isaaclal124/youtube-clone</h4>
+<h4>Twitch Clone: https://github.com/isaaclal124/twitch-clone</h4>
 
 <h3 align="left">📝 Learning</h3>
 <p>
