@@ -38,9 +38,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Redux](https://img.shields.io/badge/redux-violet.svg?style=for-the-badge&logo=redux&logoColor=purple) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![ChakraUI](https://img.shields.io/badge/chakraui-lightgreen.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
+![MaterialUI](https://img.shields.io/badge/materialui-turquoise.svg?style=for-the-badge&logo=materialui&logoColor=white) 
 
 <h4>Back-End</h4>
 
@@ -68,12 +70,6 @@
 <h4>Spotify Clone: https://github.com/isaaclal-0/spotify-clone</h4>
 <h4>YouTube Clone: https://github.com/isaaclal-0/youtube-clone</h4>
 <h4>Twitch Clone: https://github.com/isaaclal-0/twitch-clone</h4>
-
-<br>
-
-<h3 align="left">📝 Learning</h3>
-<p>
-Currently, I am learning about React and Tailwind CSS. Since I had finished understanding the fundamentals of HTML, regular CSS, and vanilla JavaScript, learning about React and Tailwind CSS is the next step in my journey for Web Development. I am using these technologies in a completely redesigned website that I am building to test my skills. After I finish understanding React and Tailwind CSS, I will move onto learning about Next.js as the next step and continue to find more evolving technologies to learn about to make the front-end process easier. 
 
 <br>
     <br>
