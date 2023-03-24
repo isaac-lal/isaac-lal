@@ -106,7 +106,7 @@
 
 <br>
 
-<h3> Humor </h3>
+<h3>😂 Humor </h3>
 
 <h4> When I find a bug in my code </h4>
 <img src="https://media.giphy.com/media/M11UVCRrc0LUk/giphy.gif">
