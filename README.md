@@ -13,7 +13,7 @@
     
 [My Portfolio](https://isaaclal.com/)<p>
 
-[My Resume](https://drive.google.com/file/d/1-FWIofI0mm3qtuvyC77wDHJjD5sbMtu0/view?usp=drivesdk)
+[My Resume](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
 </h3>
     
 ---
