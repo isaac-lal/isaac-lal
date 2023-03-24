@@ -4,19 +4,19 @@
 
 <h4>I'm learning about the technologies used to build beautiful, stunning, and responsive websites to show to others. I currently specialize in front-end visual aspects of the website, and I am continuing to learn more tools to master my understanding in the art of designing a website.</h4>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <img src="https://komarev.com/ghpvc/?username=isaaclal1&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
     
+<div align="center">
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</div>
+
+---
+
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
+    
 <h3 align="center">
     
-[My Portfolio](https://isaaclal.com/)<p>
-
-[My Resume](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
-</h3>
-    
----
 <!--
 <h3 align="left">🖥️ Technologies</h3>
 <p align="left">
@@ -62,6 +62,13 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+<h3 align="center">
+    
+[My Portfolio](https://isaaclal.com/)<p>
+[My Resume](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
+    
+</h3>
+    
 ![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)
 
 <br>
@@ -96,6 +103,25 @@
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaaclal1&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
+
+<br>
+
+<h3> Humor </h3>
+
+<h4> When I find a bug in my code </h4>
+<img src="https://media.giphy.com/media/M11UVCRrc0LUk/giphy.gif">
+
+<h4> How I feel after a one hour tutorial </h4>
+<img src="https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif">
+
+<h4> When the pull request is worse than my commit </h4>
+<img src="https://media.giphy.com/media/kWp8QC99Z6xFn8bF0v/giphy.gif">
+
+<h4> Learning all Web Development Technologies be like... </h4>
+<img src="https://media.giphy.com/media/2sXFzsA8YnLAaumYiC/giphy.gif">
+
+<h4> The feeling when you complete a project </h4>
+<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif">
 
 <br>
 
