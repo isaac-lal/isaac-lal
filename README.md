@@ -85,12 +85,12 @@
 <h3 align="left">📊 Statistics</h3>
 <p> <img src="https://github-profile-trophy.vercel.app/?username=isaaclal1&theme=darkhub" alt="isaaclal" /></a> </p>
 
-<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=isaaclal1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="isaaclal" 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isaaclal1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="isaaclal" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaaclal1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaaclal1&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="isaaclal" /></p>
 
 <br>
