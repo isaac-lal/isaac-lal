@@ -4,7 +4,7 @@
 
 <h4>I'm learning about the technologies used to build beautiful, stunning, and responsive websites to show to others. I currently specialize in front-end visual aspects of the website, and I am continuing to learn more tools to master my understanding in the art of designing a website.</h4>
 
-<p><img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <img src="https://komarev.com/ghpvc/?username=isaaclal1&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
