@@ -12,6 +12,9 @@
 <h3 align="center">
     
 [My Portfolio](https://isaaclal.com/)
+
+<br>
+
 [My Resume](https://drive.google.com/file/d/1-FWIofI0mm3qtuvyC77wDHJjD5sbMtu0/view?usp=drivesdk)
 </h2>
     
