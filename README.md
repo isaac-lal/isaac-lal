@@ -62,12 +62,14 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
+<div align="center">
 <h3>
     
 [My Portfolio](https://isaaclal.com/)<p>
 [My Resume](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
     
 </h3>
+    </div>
     
 ![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)
 
@@ -127,7 +129,8 @@
 
 <h3> 
 <details>
- <summary><h3>👨‍💻 Isaac's Coding Journey</h3></summary>
+    </h3><summary>👨‍💻 Isaac's Coding Journey</summary>
+    
   <p>I was always fascinated with websites ever since I was a kid watching videos on youtube.com, searching things up on google.com, playing games on multiple websites, and more. I loved how technology made the ideas of websites come to life, but I never really understood how it was made. I knew I wanted to be a part of the process for years, but I really haven't gotten my head engaged in it until August 2022.</p>
 
 <p>With the goal of creating my own professional website, I had decided to learn about HTML and CSS to start. These two technologies helped me to create a very basic website with limited functionality, but still looked decent. After that, I have devoted most of my time in mastering JavaScript and concepts like if-statements, for-loops, logic, and transitioning into learning about Data Structures & Algorithms, along with the Document Object Model (DOM). After JavaScript was done, I am now using my time to learn everything about React and styling with Tailwind CSS.</p>
