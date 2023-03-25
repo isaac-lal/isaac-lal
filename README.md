@@ -65,10 +65,10 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-<h3 align="center">
+<h3 align="left">
     
-[My Portfolio](https://isaaclal.com/)<p>
-[My Resume](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
+[💼 My Portfolio 💼](https://isaaclal.com/)<p>
+[📄 My Resume 📄](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
     
 </h3>
     </div>
