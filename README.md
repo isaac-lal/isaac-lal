@@ -127,7 +127,6 @@
 
 <br>
 
-<h3> 
 <details>
     <summary> <h3>👨‍💻 Isaac's Coding Journey</h3> </summary>
     
