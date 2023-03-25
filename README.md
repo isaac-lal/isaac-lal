@@ -129,7 +129,7 @@
 
 <h3> 
 <details>
-    </h3><summary>👨‍💻 Isaac's Coding Journey</summary>
+    <summary><h3>👨‍💻 Isaac's Coding Journey</h3></summary>
     
   <p>I was always fascinated with websites ever since I was a kid watching videos on youtube.com, searching things up on google.com, playing games on multiple websites, and more. I loved how technology made the ideas of websites come to life, but I never really understood how it was made. I knew I wanted to be a part of the process for years, but I really haven't gotten my head engaged in it until August 2022.</p>
 
