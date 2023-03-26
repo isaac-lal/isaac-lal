@@ -67,7 +67,7 @@
 
 <h3 align="left">
     
-[💼 My Portfolio 💼](https://isaaclal.dev/)<p>
+[💼 My Portfolio 💼](https://isaaclal.com/)<p>
 [📄 My Resume 📄](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
     
 </h3>
