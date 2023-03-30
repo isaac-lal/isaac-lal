@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-<h4>I'm learning about the technologies used to build beautiful, stunning, and responsive websites to show to others. I currently specialize in front-end visual aspects of the website, and I am continuing to learn more tools to master my understanding in the art of designing a website.</h4>
+<h4>Hey there, I'm a Web Developer who is looking to be a part of the process of making beautiful, responsive, and functional websites. I am learning every single day to improve my skills because I believe that a website can always be better. I believe that my work ethic and dedication can contribute to something great. I am hoping to deliver that same experience with you.</h4>
 
 <img src="https://komarev.com/ghpvc/?username=lal-isaac&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
