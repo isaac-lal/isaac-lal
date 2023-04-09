@@ -133,7 +133,7 @@
 <h4> How I feel after a one hour tutorial </h4>
 <img src="https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif">
 
-<h4> When the pull request is worse than my commit </h4>
+<h4> What happens to devs when Stack Overflow goes offline </h4>
 <img src="https://media.giphy.com/media/kWp8QC99Z6xFn8bF0v/giphy.gif">
 
 <h4> Learning all Web Development Technologies be like... </h4>
