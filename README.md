@@ -125,7 +125,6 @@
 
 <br>
 
-<!-- 
 <h3>😂 Humor </h3>
 
 <h4> When I find a bug in my code </h4>
@@ -144,7 +143,6 @@
 <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif">
 
 <br>
--->
 
 <details>
     <summary> <h3>👨‍💻 Isaac's Coding Journey</h3> </summary>
