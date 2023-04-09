@@ -92,7 +92,7 @@
 
 <ul>
     &nbsp;<li><h4>Portfolio Website: https://github.com/lal-isaac/portfolio-website</h4></li>
-    <img align="center" src="portfolio-website-ss">
+    <img align="center" src="portfolio-website-ss.png" width="40%">
     &nbsp;<li><h4>Calculator: Coming Soon!</h4></li>
     &nbsp;<li><h4>Weather App: Coming Soon!</h4></li>
     &nbsp;<li><h4>E-Commerce Website: Coming Soon!</h4></li>
@@ -125,6 +125,7 @@
 
 <br>
 
+<!-- 
 <h3>😂 Humor </h3>
 
 <h4> When I find a bug in my code </h4>
@@ -143,6 +144,7 @@
 <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif">
 
 <br>
+-->
 
 <details>
     <summary> <h3>👨‍💻 Isaac's Coding Journey</h3> </summary>
