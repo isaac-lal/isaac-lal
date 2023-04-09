@@ -90,15 +90,18 @@
 
 <h3>👔 Polished Repositories</h3>
 
-<h4>Portfolio Website: https://github.com/lal-isaac/portfolio-website</h4>
-<h4>Calculator: </h4>
-<h4>Weather App: </h4>
-<h4>E-Commerce Website: </h4>
-<h4>Netflix Clone: https://github.com/lal-isaac/netflix-clone</h4>
-<h4>Twitter Clone: https://github.com/lal-isaac/twitter-clone</h4>
-<h4>Spotify Clone: https://github.com/lal-isaac/spotify-clone</h4>
-<h4>YouTube Clone: https://github.com/lal-isaac/youtube-clone</h4>
-<h4>Twitch Clone: https://github.com/lal-isaac/twitch-clone</h4>
+<ul>
+    &nbsp;<li><h4>Portfolio Website: https://github.com/lal-isaac/portfolio-website</h4></li>
+    &nbsp;<li><h4>Calculator: Coming Soon!</h4></li>
+    &nbsp;<li><h4>Weather App: Coming Soon!</h4></li>
+    &nbsp;<li><h4>E-Commerce Website: Coming Soon!</h4></li>
+    &nbsp;<li><h4>Netflix Clone: Coming Soon!</h4></li>
+    &nbsp;<li><h4>Twitter Clone: Coming Soon!</h4></li>
+    &nbsp;<li><h4>Spotify Clone: Coming Soon!</h4></li>
+    &nbsp;<li><h4>YouTube Clone: Coming Soon!</h4></li>
+    &nbsp;<li><h4>Twitch Clone: Coming Soon!</h4></li>
+    &nbsp;<li><h4>AirBNB Clone: Coming Soon!</h4></li>
+    &nbsp;<li><h4>Property Finder: Coming Soon!</h4></li>
 
 <br>
     <br>
