@@ -101,7 +101,7 @@
     &nbsp;<li><h4>Spotify Clone: Coming Soon!</h4></li>
     &nbsp;<li><h4>YouTube Clone: Coming Soon!</h4></li>
     &nbsp;<li><h4>Twitch Clone: Coming Soon!</h4></li>
-    &nbsp;<li><h4>AirBNB Clone: Coming Soon!</h4></li>
+    &nbsp;<li><h4>AirBnB Clone: Coming Soon!</h4></li>
     &nbsp;<li><h4>Property Finder: Coming Soon!</h4></li>
 </ul>
 
