@@ -92,6 +92,7 @@
 <ul>
     &nbsp;<li><h4>Portfolio Website: https://github.com/lal-isaac/portfolio-website</h4></li>
     <a href="https://isaaclal.com/" target="_blank" rel="noreferrer"><img align="center" src="images/portfolio-website-ss.png" width="100%"></a>
+    <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
     &nbsp;<li><h4>Calculator: Coming Soon!</h4></li>
     &nbsp;<li><h4>Weather App: Coming Soon!</h4></li>
     &nbsp;<li><h4>E-Commerce Website: Coming Soon!</h4></li>
@@ -141,6 +142,9 @@
 
 <h4> The feeling when you complete a project </h4>
 <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif">
+
+<h4> This is the truth lowkey </h4>
+<img src="meme-imgs/localhost-meme.jpeg">
 
 <br>
 
