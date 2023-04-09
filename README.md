@@ -92,7 +92,7 @@
 
 <ul>
     &nbsp;<li><h4>Portfolio Website: https://github.com/lal-isaac/portfolio-website</h4></li>
-    <img align="center" src="portfolio-website-ss.png" width="40%">
+    <img align="center" src="portfolio-website-preview.png" width="40%">
     &nbsp;<li><h4>Calculator: Coming Soon!</h4></li>
     &nbsp;<li><h4>Weather App: Coming Soon!</h4></li>
     &nbsp;<li><h4>E-Commerce Website: Coming Soon!</h4></li>
