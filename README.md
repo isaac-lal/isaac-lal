@@ -87,7 +87,7 @@
 
 <br>
 
-<h3>👔 Polished Repositories</h3>
+<h3>👔 Major Completed Projects</h3>
 
 <ul>
     &nbsp;<li><h4>Portfolio Website: https://github.com/lal-isaac/portfolio-website</h4>
