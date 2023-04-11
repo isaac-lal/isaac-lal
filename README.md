@@ -95,13 +95,10 @@
     <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%"></a></li>
     &nbsp;<li><h4>Calculator: Coming Soon!</h4></li>
     &nbsp;<li><h4>Weather App: Coming Soon!</h4></li>
+    &nbsp;<li><h4>Chat App: Coming Soon!</h4></li>
+    &nbsp;<li><h4>ToDo-List: Coming Soon!</h4></li>
     &nbsp;<li><h4>E-Commerce Website: Coming Soon!</h4></li>
-    &nbsp;<li><h4>Netflix Clone: Coming Soon!</h4></li>
-    &nbsp;<li><h4>Twitter Clone: Coming Soon!</h4></li>
-    &nbsp;<li><h4>Spotify Clone: Coming Soon!</h4></li>
-    &nbsp;<li><h4>YouTube Clone: Coming Soon!</h4></li>
-    &nbsp;<li><h4>Twitch Clone: Coming Soon!</h4></li>
-    &nbsp;<li><h4>AirBnB Clone: Coming Soon!</h4></li>
+    &nbsp;<li><h4>Music App: Coming Soon!</h4></li>
     &nbsp;<li><h4>Property Finder: Coming Soon!</h4></li>
 </ul>
 
