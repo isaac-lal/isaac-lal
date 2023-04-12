@@ -86,96 +86,94 @@
 <!-- PROJECTS -->
 
 <div align="center">
-	<table>
-		<tr>
-			<td width="50%">
-				<h3 align="center">Portfolio Website</h3>
-				<div align="center">  
-					<a href='https://google.com' target="_blank">
-						<img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
-						</a>
-					</p>
-					<p><strong>HTML, CSS, Javascript</strong></p>
-          <p>
-						Description goes here
-					</p>
-				</div>
-			</td>
-			<td width="50%">
-				<h3 align="center">Project 2</h3>
-				<div align="center" >  
-					<a href='https://codingphase.com' target="_blank">
-						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
-					</a>
-					<br>
-					<br>
-					<p>
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-					</p>
-					 <p><strong>HTML, CSS, Javascript</strong></p>
-					<p>Description goes here</p>
-				</div>
-        </tr>
-	    <tr>
-            <td width="50%">
-                <h3 align="center">Project 3</h3>
-                <div align="center" >  
-                    <a href='https://codingphase.com' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
-                    </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
-                </div>
-            </td>
-            <td width="50%">
-                <h3 align="center">Project 4</h3>
-                <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
-                    </a>
-                    <br>
-                    <br>
-                    <p>
-                        <a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-						</a>  
-						<a href="https://codingphase.com" target="_blank">
-							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
-                    </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-		    <p>Description goes here</p>
-                </div>	
-            </td>
-        </tr>
-	</table>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p><strong>HTML, CSS, Javascript</strong></p>
+<p>Description goes here</p>
+</td>		
+	
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p><strong>HTML, CSS, Javascript</strong></p>
+<p>Description goes here</p>
+</tr>
+<tr>
+</td>
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p><strong>HTML, CSS, Javascript</strong></p>
+<p>Description goes here</p>
+</td>		
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p><strong>HTML, CSS, Javascript</strong></p>
+<p>Description goes here</p>
+</tr>
+		
+</table>
 </div>
-<br />
-<br />
 
 
     
