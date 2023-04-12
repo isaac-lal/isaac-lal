@@ -15,13 +15,13 @@
 <br>
 
 <p align="center">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/@isaac-lal/featured">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCDSTLwnLD2LX-oAe-STwAyw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
+      <a href="https://www.youtube.com/@isaac-lal/featured">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCDSTLwnLD2LX-oAe-STwAyw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
+      <a href="https://github.com/lal-isaac">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/lal-isaac?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/lal-isaac?tab=repositories">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lal-isaac?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
