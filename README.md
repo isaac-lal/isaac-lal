@@ -95,10 +95,10 @@
 <br>	  
 <p>
   <a href="https://github.com/lal-isaac/portfolio-website" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="https://isaaclal.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
@@ -121,10 +121,10 @@
 <br>	  
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
@@ -148,10 +148,10 @@
 <br>	  
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
@@ -173,10 +173,10 @@
 <br>	  
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
@@ -199,10 +199,10 @@
 <br>	  
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
@@ -225,10 +225,10 @@
 <br>	  
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
@@ -251,10 +251,10 @@
 <br>	  
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
@@ -277,10 +277,10 @@
 <br>	  
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
@@ -303,10 +303,10 @@
 <br>	  
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
@@ -329,10 +329,10 @@
 <br>	  
 <p>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+    <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
 <p>
