@@ -92,7 +92,7 @@
 <h3 align="center">Portfolio Website</h3>
   <div align="center">  
     <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="project-imgs/portfolio-website-ss.png" width="100%">
+      <img align="center" src="project-imgs/portfolio-website-ss.png" width="500" height="500">
     </a>
 
 <br>
@@ -118,7 +118,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100" height="100">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
