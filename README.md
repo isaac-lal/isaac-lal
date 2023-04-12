@@ -95,7 +95,6 @@
 ![ZSH](https://img.shields.io/badge/zsh-green.svg?style=for-the-badge&logo=zsh&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-green.svg?style=for-the-badge&logo=bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
-
 ![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
 
 <h3 align="center">
