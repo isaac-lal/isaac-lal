@@ -105,7 +105,12 @@
     <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
-<p><strong>HTML, CSS, Javascript</strong></p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+
+</p>
 <p>Description goes here</p>
 </td>		
 	
@@ -126,7 +131,12 @@
     <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
-<p><strong>HTML, CSS, Javascript</strong></p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+
+</p>
 <p>Description goes here</p>
 </tr>
 <tr>
@@ -148,7 +158,12 @@
     <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
-<p><strong>HTML, CSS, Javascript</strong></p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+
+</p>
 <p>Description goes here</p>
 </td>		
 <td width="50%">
@@ -168,7 +183,12 @@
     <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
-<p><strong>HTML, CSS, Javascript</strong></p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+
+</p>
 <p>Description goes here</p>
 </tr>
 		
