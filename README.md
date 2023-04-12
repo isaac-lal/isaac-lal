@@ -92,7 +92,7 @@
 <h3 align="center">Portfolio Website</h3>
   <div align="center">  
     <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="project-imgs/portfolio-website-ss.png" width="350" height="350">
+      <img align="center" src="project-imgs/portfolio-website-ss.png" width="375" height="375">
     </a>
 
 <br>
