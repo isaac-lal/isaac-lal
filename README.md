@@ -106,9 +106,9 @@
   </a>
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
 <p>Description goes here</p>
@@ -132,9 +132,9 @@
   </a>
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
 <p>Description goes here</p>
@@ -159,9 +159,9 @@
   </a>
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
 <p>Description goes here</p>
@@ -184,14 +184,169 @@
   </a>
 </p>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
 <p>Description goes here</p>
 </tr>
-		
+<tr>
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+
+</p>
+<p>Description goes here</p>
+</td>		
+	
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+
+</p>
+<p>Description goes here</p>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+
+</p>
+<p>Description goes here</p>
+</td>		
+	
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+
+</p>
+<p>Description goes here</p>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+
+</p>
+<p>Description goes here</p>
+</td>		
+	
+<td width="50%">
+<h3 align="center">Portfolio Website</h3>
+  <div align="center">  
+    <a href='https://isaaclal.com/' target="_blank">
+      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    </a>
+
+<br>
+<br>	  
+<p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+  </a>
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="30" height="30" /> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
+
+</p>
+<p>Description goes here</p>
+</tr>
 </table>
 </div>
 
