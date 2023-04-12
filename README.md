@@ -69,7 +69,7 @@
 
 <h3 align="center">
     
-[💼 My Portfolio 💼](https://isaaclal.com/)<p>
+[💼 My Portfolio 💼](#)<p>
 [📄 My Resume 📄](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
     
 </h3>
@@ -92,7 +92,7 @@
 <h3 align="center">Portfolio Website</h3>
   <div align="center">  
     <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+      <img align="center" src="project-imgs/portfolio-website-ss.png" width="100%">
     </a>
 
 <br>
@@ -115,10 +115,10 @@
 </td>		
 	
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    <a href='#' target="_blank">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
@@ -142,10 +142,10 @@
 <tr>
 </td>
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    <a href='#' target="_blank">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
@@ -167,10 +167,10 @@
 <p>Description goes here</p>
 </td>		
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    <a href='#' target="_blank">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
@@ -193,10 +193,10 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    <a href='#' target="_blank">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
@@ -219,10 +219,10 @@
 </td>		
 	
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    <a href='#' target="_blank">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
@@ -245,10 +245,10 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    <a href='#' target="_blank">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
@@ -271,10 +271,10 @@
 </td>		
 	
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    <a href='#' target="_blank">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
@@ -297,10 +297,10 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    <a href='#' target="_blank">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
@@ -323,10 +323,10 @@
 </td>		
 	
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+    <a href='#' target="_blank">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
     </a>
 
 <br>
