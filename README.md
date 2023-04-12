@@ -82,7 +82,6 @@
 
 <h3>👔 Projects</h3>
 
-    
 <!-- PROJECTS -->
 
 <div align="center">
@@ -118,7 +117,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="400">
     </a>
 
 <br>
@@ -145,7 +144,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="400">
     </a>
 
 <br>
@@ -170,7 +169,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="400">
     </a>
 
 <br>
@@ -196,7 +195,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="400">
     </a>
 
 <br>
@@ -222,7 +221,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="400">
     </a>
 
 <br>
@@ -248,7 +247,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="400">
     </a>
 
 <br>
@@ -274,7 +273,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="400">
     </a>
 
 <br>
@@ -300,7 +299,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="400">
     </a>
 
 <br>
@@ -326,7 +325,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="400">
     </a>
 
 <br>
@@ -350,8 +349,6 @@
 </table>
 </div>
 
-
-    
 <br>
     <br>
     
