@@ -42,37 +42,30 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-purple.svg?style=for-the-badge&logo=vite&logoColor=yellow)
 ![Redux](https://img.shields.io/badge/redux-violet.svg?style=for-the-badge&logo=redux&logoColor=purple)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ChakraUI](https://img.shields.io/badge/chakraui-lightgreen.svg?style=for-the-badge&logo=chakraui&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/materialui-turquoise.svg?style=for-the-badge&logo=materialui&logoColor=white)
 
 <h4>Back-End</h4>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-aqua.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-navy.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-blue.svg?style=for-the-badge&logo=trpc&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 <h4>Tools<h4>
     
 ![NPM](https://img.shields.io/badge/NPM-crimson.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-%23000000.svg?style=for-the-badge&logo=pnpm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-blue.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ZSH](https://img.shields.io/badge/zsh-green.svg?style=for-the-badge&logo=zsh&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-green.svg?style=for-the-badge&logo=bash&logoColor=white)
+![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
 
 <h3 align="center">
     
@@ -89,19 +82,103 @@
 
 <h3>👔 Projects</h3>
 
-<ul>
-    &nbsp;<li><h4>Portfolio Website: https://github.com/lal-isaac/portfolio-website</h4>
-    <a href="https://isaaclal.com/" target="_blank" rel="noreferrer">
-    <img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%"></a></li>
-    &nbsp;<li><h4>Calculator: Coming Soon!</h4></li>
-    &nbsp;<li><h4>Weather App: Coming Soon!</h4></li>
-    &nbsp;<li><h4>Chat App: Coming Soon!</h4></li>
-    &nbsp;<li><h4>ToDo-List: Coming Soon!</h4></li>
-    &nbsp;<li><h4>E-Commerce Website: Coming Soon!</h4></li>
-    &nbsp;<li><h4>Music App: Coming Soon!</h4></li>
-    &nbsp;<li><h4>Property Finder: Coming Soon!</h4></li>
-</ul>
+    
+<!-- PROJECTS -->
 
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">Portfolio Website</h3>
+				<div align="center">  
+					<a href='https://google.com' target="_blank">
+						<img align="center" src="repo-imgs/portfolio-website-ss.png" width="100%">
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/codingphasedotcom/nextjslanding" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
+						</a>
+					</p>
+					<p><strong>HTML, CSS, Javascript</strong></p>
+          <p>
+						Description goes here
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Project 2</h3>
+				<div align="center" >  
+					<a href='https://codingphase.com' target="_blank">
+						<img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML, CSS, Javascript</strong></p>
+					<p>Description goes here</p>
+				</div>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Project 3</h3>
+                <div align="center" >  
+                    <a href='https://codingphase.com' target="_blank">
+                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Project 4</h3>
+                <div align="center">  
+                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
+                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://codingphase.com" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>HTML, CSS, Javascript</strong></p>
+		    <p>Description goes here</p>
+                </div>	
+            </td>
+        </tr>
+	</table>
+</div>
+<br />
+<br />
+
+
+    
 <br>
     <br>
     
