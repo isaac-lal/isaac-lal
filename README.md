@@ -118,7 +118,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="100%">
+      <img align="center" src="project-imgs/coming-soon.jpeg" width="100" height="100">
     </a>
 
 <br>
