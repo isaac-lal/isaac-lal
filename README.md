@@ -90,17 +90,14 @@
 <td width="50%">
 <h3 align="center">Portfolio Website</h3>
   <div align="center">  
-    <a href='https://isaaclal.com/' target="_blank">
-      <img align="center" src="project-imgs/portfolio-website-ss.png" width="400" height="400">
-    </a>
-
+    <img align="center" src="project-imgs/portfolio-website-ss.png" width="400" height="400">
 <br>
 <br>	  
 <p>
-  <a href="#" target="_blank">
+  <a href="https://github.com/lal-isaac/portfolio-website" target="_blank">
     <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://isaaclal.com/" target="_blank">
     <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
@@ -110,7 +107,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </td>		
 	
 <td width="50%">
@@ -136,7 +133,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </tr>
 <tr>
 </td>
@@ -163,7 +160,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </td>		
 <td width="50%">
 <h3 align="center">Upcoming Project</h3>
@@ -188,7 +185,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </tr>
 <tr>
 <td width="50%">
@@ -214,7 +211,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </td>		
 	
 <td width="50%">
@@ -240,7 +237,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </tr>
 <tr>
 <td width="50%">
@@ -266,7 +263,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </td>		
 	
 <td width="50%">
@@ -292,7 +289,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </tr>
 <tr>
 <td width="50%">
@@ -318,7 +315,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </td>		
 	
 <td width="50%">
@@ -344,7 +341,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
 
 </p>
-<p>Description goes here</p>
+<p>Enjoy!</p>
 </tr>
 </table>
 </div>
