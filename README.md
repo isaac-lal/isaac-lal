@@ -75,6 +75,8 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-aqua.svg?style=for-the-badge&logo=postgresql&logoColor=black)
+![RESTful](https://img.shields.io/badge/restful-darkred.svg?style=for-the-badge&logo=restful&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-violet.svg?style=for-the-badge&logo=graphql&logoColor=graphql)
 ![tRPC](https://img.shields.io/badge/tRPC-blue.svg?style=for-the-badge&logo=trpc&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-navy.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -82,8 +84,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-lightgreen.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-orange.svg?style=for-the-badge&logo=AWS&logoColor=white)
-![RESTAPI](https://img.shields.io/badge/restapi-darkred.svg?style=for-the-badge&logo=restapi&logoColor=white)
-![RapidAPI](https://img.shields.io/badge/rapidapi-lightblue.svg?style=for-the-badge&logo=rapidapi&logoColor=white)
 
 
 <h4>Tools<h4>
@@ -99,7 +99,7 @@
 
 <h3 align="center">
     
-[💼 My Portfolio 💼](#)<p>
+[💼 My Portfolio 💼](https://isaaclal.com/)<p>
 [📄 My Resume 📄](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
     
 </h3>
