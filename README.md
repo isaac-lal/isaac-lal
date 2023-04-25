@@ -78,6 +78,7 @@
 ![RESTful](https://img.shields.io/badge/restful-darkred.svg?style=for-the-badge&logo=restful&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql-violet.svg?style=for-the-badge&logo=graphql&logoColor=graphql)
 ![tRPC](https://img.shields.io/badge/tRPC-blue.svg?style=for-the-badge&logo=trpc&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-crimson.svg?style=for-the-badge&logo=axios&logoColor=black)
 ![Prisma](https://img.shields.io/badge/prisma-navy.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -95,6 +96,7 @@
 ![ZSH](https://img.shields.io/badge/zsh-green.svg?style=for-the-badge&logo=zsh&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-green.svg?style=for-the-badge&logo=bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
+![Wordpress](https://img.shields.io/badge/wordpress-blue.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
 
 <h3 align="center">
