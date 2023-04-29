@@ -113,7 +113,8 @@
 <br>
 
 <h3>👔 Resume</h3>
-![](Isaac Lal's Resume.pdf)
+
+<img src="isaac-lal-resume.png">
 
 <h3>📝 Projects </h3>
 <!-- PROJECTS -->
