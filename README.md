@@ -114,7 +114,7 @@
 
 <h3>👔 Resume</h3>
 
-<img src="isaac-lal-resume.png">
+<img src="resume.png">
 
 <h3>📝 Projects </h3>
 <!-- PROJECTS -->
