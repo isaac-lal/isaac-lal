@@ -25,6 +25,13 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lal-isaac?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
    
+
+<h3 align="center">
+    
+[💼 MY PORTFOLIO 💼](https://isaaclal.com/)
+    
+</h3>
+   
 ---
 
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="40%"/>
@@ -98,13 +105,6 @@
 ![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-blue.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
-
-<h3 align="center">
-    
-[💼 My Portfolio 💼](https://isaaclal.com/)<p>
-[📄 My Resume 📄](https://drive.google.com/file/d/1hcCdqKBZ10_lcXw2sxjS_SyyPTbTAB4r/view?usp=drivesdk)
-    
-</h3>
     
 <br>
     
@@ -112,8 +112,10 @@
 
 <br>
 
-<h3>👔 Projects</h3>
+<h3>👔 Resume</h3>
+![](Isaac Lal's Resume.pdf)
 
+<h3>📝 Projects </h3>
 <!-- PROJECTS -->
 
 <div align="center">
