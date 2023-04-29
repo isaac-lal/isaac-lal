@@ -114,7 +114,7 @@
 
 <h3>👔 Resume</h3>
 
-<img src="resume.png">
+<img src="resume.jpeg">
 
 <h3>📝 Projects </h3>
 <!-- PROJECTS -->
