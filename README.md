@@ -116,6 +116,9 @@
 
 <img src="resume.jpeg">
 
+<br>
+<br>
+	
 <h3>📝 Projects </h3>
 <!-- PROJECTS -->
 
