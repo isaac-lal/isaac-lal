@@ -122,6 +122,9 @@
 <img align="center" src="company-resume.jpg">
 <p>This is my tailored resume. I would change up the skills and projects to fit according to the job listings. It would help me become more noticed in computer searching algorithms when it scans my resume.</p>
 
+<br>
+<br>
+   
 <h3>📝 Projects </h3>
 <!-- PROJECTS -->
 
