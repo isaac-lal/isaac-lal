@@ -115,11 +115,11 @@
 <h3>👔 Resume</h3>
 
 <h4>Isaac Lal's Designed Resume</h4>
-<img src="resume.jpeg">
+<img align="center" src="resume.jpeg">
 <p>This is the resume that I have spent a long time designing, but it isn't optimal for applying to jobs. It still looks cool though so here you go!</p>
 
 <h4>Isaac Lal's Tailored Resume</h4>
-<img src="company-resume.jpg">
+<img align="center" src="company-resume.jpg">
 <p>This is my tailored resume. I would change up the skills and projects to fit according to the job listings. It would help me become more noticed in computer searching algorithms when it scans my resume.</p>
 
 <h3>📝 Projects </h3>
