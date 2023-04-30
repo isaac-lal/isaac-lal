@@ -114,11 +114,14 @@
 
 <h3>👔 Resume</h3>
 
+<h4>Isaac Lal's Designed Resume</h4>
 <img src="resume.jpeg">
+<p>This is the resume that I have spent a long time designing, but it isn't optimal for applying to jobs. It still looks cool though so here you go!</p>
 
-<br>
-<br>
-	
+<h4>Isaac Lal's Tailored Resume</h4>
+<img src="company-resume">
+<p>This is my tailored resume. I would change up the skills and projects to fit according to the job listings. It would help me become more noticed in computer searching algorithms when it scans my resume.</p>
+
 <h3>📝 Projects </h3>
 <!-- PROJECTS -->
 
@@ -128,7 +131,7 @@
 <td width="50%">
 <h3 align="center">Portfolio Website</h3>
   <div align="center">  
-    <img align="center" src="project-imgs/portfolio-website-ss.png" width="400" height="225">
+    <img align="center" src="portfolio-website-ss.png" width="400" height="225">
 <br>
 <br>	  
 <p>
@@ -152,7 +155,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
     </a>
 
 <br>
@@ -179,7 +182,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
     </a>
 
 <br>
@@ -204,7 +207,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
     </a>
 
 <br>
@@ -230,7 +233,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
     </a>
 
 <br>
@@ -256,7 +259,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
     </a>
 
 <br>
@@ -282,7 +285,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
     </a>
 
 <br>
@@ -308,7 +311,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
     </a>
 
 <br>
@@ -334,7 +337,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
     </a>
 
 <br>
@@ -360,7 +363,7 @@
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="project-imgs/coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
     </a>
 
 <br>
@@ -426,7 +429,7 @@
 <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif">
 
 <h4> This is the truth lowkey </h4>
-<img src="meme-imgs/localhost-meme.jpeg">
+<img src="localhost-meme.jpeg">
 
 <br>
 
