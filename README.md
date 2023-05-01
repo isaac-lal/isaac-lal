@@ -107,9 +107,6 @@
 ![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
     
 <br>
-    
-![MasterHead](https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg)
-
 <br>
 
 <h3>👔 Resume</h3>
@@ -117,6 +114,8 @@
 <h4>Isaac Lal's Resume</h4>
 <img src="resume.jpg">
 
+<br>
+<br>
 <h3>📝 Projects </h3>
 <!-- PROJECTS -->
 
@@ -403,9 +402,8 @@
 <br>
 	
 [![lal-isaac's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lal-isaac&bg_color=000000&text_color=ffffff)](https://github.com/lal-isaac/github-readme-stats)
-	
-<br>
 
+<!---
 <h3>😂 Humor </h3>
 
 <h4> When I find a bug in my code </h4>
@@ -425,7 +423,7 @@
 
 <h4> This is the truth lowkey </h4>
 <img src="localhost-meme.jpeg">
-
+-->
 <br>
 
 <details>
