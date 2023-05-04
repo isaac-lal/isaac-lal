@@ -70,11 +70,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ChakraUI](https://img.shields.io/badge/chakraui-lime.svg?style=for-the-badge&logo=chakraui&logoColor=black)
-![MaterialUI](https://img.shields.io/badge/materialui-turquoise.svg?style=for-the-badge&logo=materialui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Less](https://img.shields.io/badge/less-brown.svg?style=for-the-badge&logo=less&logoColor=white)
 
 <h4>Back-End</h4>
 
@@ -83,27 +79,18 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-aqua.svg?style=for-the-badge&logo=postgresql&logoColor=black)
 ![RESTful](https://img.shields.io/badge/restful-darkred.svg?style=for-the-badge&logo=restful&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-violet.svg?style=for-the-badge&logo=graphql&logoColor=graphql)
-![tRPC](https://img.shields.io/badge/tRPC-blue.svg?style=for-the-badge&logo=trpc&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-crimson.svg?style=for-the-badge&logo=axios&logoColor=black)
 ![Prisma](https://img.shields.io/badge/prisma-navy.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-lightgreen.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-orange.svg?style=for-the-badge&logo=AWS&logoColor=white)
-
 
 <h4>Tools<h4>
     
 ![NPM](https://img.shields.io/badge/NPM-crimson.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/PNPM-%23000000.svg?style=for-the-badge&logo=pnpm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-blue.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![ZSH](https://img.shields.io/badge/zsh-green.svg?style=for-the-badge&logo=zsh&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-green.svg?style=for-the-badge&logo=bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
-![Wordpress](https://img.shields.io/badge/wordpress-blue.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
     
 <br>
