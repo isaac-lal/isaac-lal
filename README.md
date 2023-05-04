@@ -78,7 +78,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-aqua.svg?style=for-the-badge&logo=postgresql&logoColor=black)
-![RESTful](https://img.shields.io/badge/restful-darkred.svg?style=for-the-badge&logo=restful&logoColor=white)
+![RESTful](https://img.shields.io/badge/restful_APIs-darkred.svg?style=for-the-badge&logo=restful&logoColor=white)
 ![Axios](https://img.shields.io/badge/axios-crimson.svg?style=for-the-badge&logo=axios&logoColor=black)
 ![Prisma](https://img.shields.io/badge/prisma-navy.svg?style=for-the-badge&logo=prisma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
