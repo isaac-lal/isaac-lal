@@ -1,8 +1,8 @@
 <h1> Hello, World! I'm Isaac Lal  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
-**`Web Developer`**
+**`Software Engineer`**
 
-<h4>I'm a Web Developer who is looking to be a part of the process of making beautiful, responsive, and functional websites. I am learning every single day to improve my skills because I believe that a website can always be better. I believe that my work ethic and dedication can contribute to something great. I am hoping to deliver that same experience with you.</h4>
+<h4>I'm a Software Engineer that specializes in full-stack web development by implementing both front-end design and configuring the back-end. Looking to be a part of the process of making beautiful, responsive, and functional products, I am learning every single day to improve my skills. With the belief that my work ethic and dedication can contribute to something great, I hope to have the opportunity to deliver that same experience with you.</h4>
 
 <img src="https://komarev.com/ghpvc/?username=lal-isaac&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
@@ -65,17 +65,17 @@
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-purple.svg?style=for-the-badge&logo=vite&logoColor=yellow)
-![Redux](https://img.shields.io/badge/redux-violet.svg?style=for-the-badge&logo=redux&logoColor=purple)
+![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 <h4>Back-End</h4>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-aqua.svg?style=for-the-badge&logo=postgresql&logoColor=black)
 ![RESTful](https://img.shields.io/badge/restful_APIs-darkred.svg?style=for-the-badge&logo=restful&logoColor=white)
@@ -85,12 +85,11 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <h4>Tools<h4>
-    
-![NPM](https://img.shields.io/badge/NPM-crimson.svg?style=for-the-badge&logo=npm&logoColor=white)
-![PNPM](https://img.shields.io/badge/PNPM-%23000000.svg?style=for-the-badge&logo=pnpm&logoColor=white)
-![VSCode](https://img.shields.io/badge/vscode-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![ZSH](https://img.shields.io/badge/zsh-green.svg?style=for-the-badge&logo=zsh&logoColor=white)
+
 ![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-crimson.svg?style=for-the-badge&logo=npm&logoColor=white)
+![VS_Code](https://img.shields.io/badge/vs_code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Z-Shell](https://img.shields.io/badge/z_shell-green.svg?style=for-the-badge&logo=z_shell&logoColor=white)
 ![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
     
 <br>
