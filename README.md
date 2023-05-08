@@ -100,7 +100,7 @@
 <h4>Isaac Lal's Resume</h4>
 
 <div align="center">
-<img align="center" src="resume.png">
+<img align="center" src="resume.jpg">
 </div>
 
 <br>
