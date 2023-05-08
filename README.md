@@ -98,7 +98,10 @@
 <h3>👔 Resume</h3>
 
 <h4>Isaac Lal's Resume</h4>
+
+<div align="center">
 <img align="center" src="resume.png">
+</div>
 
 <br>
 <br>
