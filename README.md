@@ -78,6 +78,7 @@
 ![NPM](https://img.shields.io/badge/NPM-crimson.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![VS_Code](https://img.shields.io/badge/vs_code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
+![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=F7B93E&logo=Prettier&logoColor=black&label=)
 ![Z-Shell](https://img.shields.io/badge/z_shell-green.svg?style=for-the-badge&logo=z_shell&logoColor=white)
 ![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
     
