@@ -8,14 +8,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=lal-isaac&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
-
-<br>
-<br>
-   
    
 ---
 
-<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
     
 <h3 align="center">
     
