@@ -42,12 +42,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/static/v1?style=for-the-badge&message=Redux&color=764ABC&logo=Redux&logoColor=FFFFFF&label=)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-purple.svg?style=for-the-badge&logo=vite&logoColor=yellow)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <h4>Back-End</h4>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-aqua.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![RESTful_APIs](https://img.shields.io/badge/restful_APIs-darkred.svg?style=for-the-badge&logo=restful&logoColor=white)
@@ -61,6 +63,7 @@
 ![VS_Code](https://img.shields.io/badge/vs_code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=F7B93E&logo=Prettier&logoColor=black&label=)
+![Z_Shell](https://img.shields.io/badge/z_shell-green.svg?style=for-the-badge&logo=zsh&logoColor=white)
 ![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
     
 <br>
@@ -225,3 +228,4 @@
 
 <details>
     <summary> <h3>👨‍💻 Isaac's Coding Journey</h3> </summary>
+I was always fascinated with the web ever since I was a kid in middle school. I had no idea what technology was until December 2015, when I was in 7th grade, because I was never exposed to it in my childhood. My English teacher gave me a laptop for the first time to type my essay on, and I instantly fell in love with it. I would just go on Google to search up a lot of things that interested me, and it always had the answers to everything. Knowing the power of Google just made me fall in love with technology, and it just continues to rapidly improve as time passes. Fast forward to 2022, when I am in college pursuing a Computer Science major. I had absolutely no idea what I wanted to do for my career. There were so many options like Web Development, App Development, Machine Learning, and Game Development just to name a few. I tried making atleast one of every single project for the different tech fields and learning the concepts, but I fell in love with Web Development 100x more than every other field. It was so fun designing my websites and I was extremely engaged working on them that I continued to improve my skills. Now, I am pursuing Web Development by mastering my skills to create my dream website projects sooner. I am learning every single day to hone my skills and learn new technologies that just make developing websites easier and more fun to do. As I master my skills, my work is improving very steadily. I am very engaged in the process and I will continue to be engaged and deliver quality, immersive, and seamless projects that many people will come to love. I hope that you are excited!
