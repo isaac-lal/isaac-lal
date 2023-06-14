@@ -6,7 +6,7 @@
 
 <h4>I'm a Web Developer that specializes in full-stack by implementing both front-end design and configuring the back-end. Looking to be a part of the process of making beautiful, responsive, and functional websites, I am learning every single day to improve my skills. With the belief that my work ethic and dedication can contribute to something great, I hope to have the opportunity to deliver that same experience with you.</h4>
 
-<img src="https://komarev.com/ghpvc/?username=lal-isaac&label=Profile%20views&color=0e75b6&style=flat"
+<img src="https://komarev.com/ghpvc/?username=isaac-lal&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
    
 ---
@@ -90,7 +90,7 @@
 <br>
 <br>	  
 <p>
-  <a href="https://github.com/lal-isaac/portfolio-website" target="_blank">
+  <a href="https://github.com/isaac-lal/portfolio-website" target="_blank">
     <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
   <a href="https://isaaclal.com/" target="_blank">
@@ -186,22 +186,22 @@
     
 <!-- STATS -->
 <h3 align="left">📊 Statistics</h3>
-<p> <img src="https://github-profile-trophy.vercel.app/?username=lal-isaac&theme=darkhub" alt="isaaclal" /> </p>
+<p> <img src="https://github-profile-trophy.vercel.app/?username=isaac-lal&theme=darkhub" alt="isaaclal" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lal-isaac&langs_count=8&bg_color=000000&text_color=ffffff)](https://github.com/lal-isaac/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lal&langs_count=8&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lal-isaac&show_icons=true&locale=en&include_all_commits=true&bg_color=000000&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaac-lal&show_icons=true&locale=en&include_all_commits=true&bg_color=000000&text_color=ffffff&repo=convoychat"
     alt="isaaclal" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lal-isaac&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-lal&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
 
 <br>
 	
-[![lal-isaac's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lal-isaac&bg_color=000000&text_color=ffffff)](https://github.com/lal-isaac/github-readme-stats)
+[![isaac-lal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaac-lal&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
 
 <!---
 <h3>😂 Humor </h3>
