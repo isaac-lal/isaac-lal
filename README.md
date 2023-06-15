@@ -14,23 +14,6 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
     
 <h3 align="center">
-    
-<!--
-<h3 align="left">🖥️ Technologies</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="50" height="50" /> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodejs" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-</p>
--->
 
 <h3> 🖥️ Technologies </h3>
     
@@ -203,29 +186,7 @@
 	
 [![isaac-lal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaac-lal&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
 
-<!---
-<h3>😂 Humor </h3>
-
-<h4> When I find a bug in my code </h4>
-<img src="https://media.giphy.com/media/M11UVCRrc0LUk/giphy.gif">
-
-<h4> How I feel after a one hour tutorial </h4>
-<img src="https://media.giphy.com/media/KmHueA88mFABT9GkkR/giphy.gif">
-
-<h4> What happens to devs when Stack Overflow goes offline </h4>
-<img src="https://media.giphy.com/media/kWp8QC99Z6xFn8bF0v/giphy.gif">
-
-<h4> Learning all Web Development Technologies be like... </h4>
-<img src="https://media.giphy.com/media/2sXFzsA8YnLAaumYiC/giphy.gif">
-
-<h4> The feeling when you complete a project </h4>
-<img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif">
-
-<h4> This is the truth lowkey </h4>
-<img src="localhost-meme.jpeg">
--->
 <br>
 
 <details>
     <summary> <h3>👨‍💻 Isaac's Coding Journey</h3> </summary>
-I was always fascinated with the web ever since I was a kid in middle school. I had no idea what technology was until December 2015, when I was in 7th grade, because I was never exposed to it in my childhood. My English teacher gave me a laptop for the first time to type my essay on, and I instantly fell in love with it. I would just go on Google to search up a lot of things that interested me, and it always had the answers to everything. Knowing the power of Google just made me fall in love with technology, and it just continues to rapidly improve as time passes. Fast forward to 2022, when I am in college pursuing a Computer Science major. I had absolutely no idea what I wanted to do for my career. There were so many options like Web Development, App Development, Machine Learning, and Game Development just to name a few. I tried making atleast one of every single project for the different tech fields and learning the concepts, but I fell in love with Web Development 100x more than every other field. It was so fun designing my websites and I was extremely engaged working on them that I continued to improve my skills. Now, I am pursuing Web Development by mastering my skills to create my dream website projects sooner. I am learning every single day to hone my skills and learn new technologies that just make developing websites easier and more fun to do. As I master my skills, my work is improving very steadily. I am very engaged in the process and I will continue to be engaged and deliver quality, immersive, and seamless projects that many people will come to love. I hope that you are excited!
