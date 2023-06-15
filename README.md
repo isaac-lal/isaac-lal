@@ -2,9 +2,9 @@
 
 [Isaac Lal](https://isaaclal.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
-**`Web Developer`**
+**`Software Engineer`**
 
-<h4>I'm a Web Developer that specializes in full-stack by implementing both front-end design and configuring the back-end. Looking to be a part of the process of making beautiful, responsive, and functional websites, I am learning every single day to improve my skills. With the belief that my work ethic and dedication can contribute to something great, I hope to have the opportunity to deliver that same experience with you.</h4>
+<h4>I'm a Software Engineer that specializes in full-stack web development and native mobile development. I am looking to be a part of the process of making beautiful, responsive, and functional products and learning every single day to improve my skills. With the belief that my work ethic and dedication can contribute to something great, I hope to have the opportunity to deliver that same experience with you.</h4>
 
 <img src="https://komarev.com/ghpvc/?username=isaac-lal&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
@@ -35,7 +35,7 @@
 <h3> 🖥️ Technologies </h3>
     
 <div>
-<h4> Front-End </h4>
+<h4> Programming Languages </h4>
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +46,7 @@
 ![Vite](https://img.shields.io/badge/vite-purple.svg?style=for-the-badge&logo=vite&logoColor=yellow)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h4>Back-End</h4>
+<h4>Frameworks & Libraries</h4>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-aqua.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -56,7 +56,7 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-<h4>Tools<h4>
+<h4>Developer Tools<h4>
 
 ![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-crimson.svg?style=for-the-badge&logo=npm&logoColor=white)
