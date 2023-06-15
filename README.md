@@ -4,7 +4,7 @@
 
 **`Software Engineer`**
 
-<h4>I'm a Software Engineer that specializes in full-stack web development and native mobile development. I am looking to be a part of the process of making beautiful, responsive, and functional products and learning every single day to improve my skills. With the belief that my work ethic and dedication can contribute to something great, I hope to have the opportunity to deliver that same experience with you.</h4>
+<h4>I'm a Software Engineer that specializes in full-stack web development. I am looking to be a part of the process of making beautiful, responsive, and functional applications and learning every single day to improve my skills. With the belief that my work ethic and dedication can contribute to something great, I hope to have the opportunity to deliver that same experience with you.</h4>
 
 <img src="https://komarev.com/ghpvc/?username=isaac-lal&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
