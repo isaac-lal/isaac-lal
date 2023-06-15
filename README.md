@@ -184,7 +184,6 @@
 
 <br>
 	
-[![isaac-lal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=isaac-lal&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
 
 <br>
 
