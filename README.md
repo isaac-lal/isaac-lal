@@ -175,12 +175,12 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isaac-lal&show_icons=true&locale=en&include_all_commits=true&bg_color=000000&text_color=ffffff&repo=convoychat"
+<p><img src="https://github-readme-stats.vercel.app/api?username=isaac-lal&show_icons=true&locale=en&include_all_commits=true&bg_color=000000&text_color=ffffff&repo=convoychat"
     alt="isaaclal" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-lal&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-lal&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
 
 <br>
 	
