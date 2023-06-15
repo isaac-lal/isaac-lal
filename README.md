@@ -175,7 +175,7 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=isaac-lal&show_icons=true&locale=en&include_all_commits=true&bg_color=000000&text_color=ffffff&repo=convoychat"
+<p><img src="https://github-readme-stats.vercel.app/api?username=isaac-lal&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&repo=convoychat"
     alt="isaaclal" /></p>
 
 <br>
