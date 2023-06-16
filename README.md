@@ -65,7 +65,7 @@
 <td width="50%">
 <h3 align="center">Portfolio Website</h3>
   <div align="center">  
-    <img align="center" src="portfolio-website-ss.png" width="400" height="225">
+    <img align="center" src="portfolio.png" width="400" height="225">
 <br>
 <br>	  
 <p>
