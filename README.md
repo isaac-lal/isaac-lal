@@ -1,6 +1,6 @@
 <img src="banner.png" alt="banner" />
 
-<h1> Hello, World! I'm 
+<h1> Hello, World! I'm
 
 [Isaac Lal](https://isaaclal.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=isaac-lal&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
-   
+
 ---
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%"/>
@@ -49,7 +49,6 @@
 ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=F7B93E&logo=Prettier&logoColor=black&label=)
 ![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
 
-
 <br>
 <br>
 
@@ -67,17 +66,21 @@
 <div align="center">
 <table>
 <tr>
+
 <td width="50%">
-<h3 align="center">Portfolio Website</h3>
+<h3 align="center">Upcoming Project</h3>
   <div align="center">  
-    <img align="center" src="portfolio.png" width="400" height="225">
+    <a href='#' target="_blank">
+      <img align="center" src="coming-soon.jpeg" width="400" height="225">
+    </a>
+
 <br>
 <br>	  
 <p>
-  <a href="https://github.com/isaac-lal/portfolio" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="https://isaaclal.com/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
@@ -156,8 +159,6 @@
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 
-
-
 </p>
 <p>Enjoy!</p>
 </tr>
@@ -184,7 +185,6 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-lal&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
 
 <br>
-	
 
 <br>
 
