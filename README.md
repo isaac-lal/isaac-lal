@@ -187,7 +187,7 @@
 
 <br>
 
-![snake gif](https://github.com/isaac-lal/isaac-lal/blob/output/github-contribution-grid-snake.gif)
+<img alt="contribution-graph-snake" src="https://github.com/isaac-lal/isaac-lal/blob/output/github-contribution-grid-snake.svg">
 
 <br>
 
