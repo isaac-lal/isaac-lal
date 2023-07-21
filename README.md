@@ -17,7 +17,7 @@
     
 <h3 align="center">
 
-<h3> 🖥️ Technologies </h3>
+<h3> 🖥️ Skills </h3>
     
 <div>
 <h4> Programming Languages </h4>
