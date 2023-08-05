@@ -50,7 +50,7 @@
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
-
+![RESTful APIs](https://img.shields.io/static/v1?style=for-the-badge&message=RESTful+APIs&color=crimson&logoColor=FFFFFF&label=)
 
  
 <br>
