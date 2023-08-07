@@ -180,16 +180,16 @@
 <h3 align="left">📊 Statistics</h3>
 <p> <img src="https://github-profile-trophy.vercel.app/?username=isaac-lal&theme=darkhub" alt="isaaclal" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lal&langs_count=8&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaac-lal&langs_count=8&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel-sigma-five.app/api?username=isaac-lal&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&repo=convoychat"
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaac-lal&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&repo=convoychat"
     alt="isaaclal" /></p>
 
 <br>
 
-<p><img src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=isaac-lal&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-lal&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
 
 <br>
 
