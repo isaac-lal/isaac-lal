@@ -2,7 +2,7 @@
 
 <h1> Hello, World! I'm
 
-[Isaac Lal](https://isaaclal.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
+[Isaac Lal](https://isaaclal.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
 **`Software Engineer`**
 
