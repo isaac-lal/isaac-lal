@@ -47,6 +47,7 @@
 ![VS_Code](https://img.shields.io/badge/vs_code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=F7B93E&logo=Prettier&logoColor=black&label=)
+![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label=)
 
 <h4>Services<h4>
 
