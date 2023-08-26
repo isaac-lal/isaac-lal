@@ -184,11 +184,11 @@
 <h3 align="left">📊 Statistics</h3>
 <p> <img src="https://github-profile-trophy.vercel.app/?username=isaac-lal&theme=darkhub" alt="isaaclal" /> </p>
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=isaac-lal&langs_count=8&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lal&langs_count=8&bg_color=000000&text_color=ffffff&repo=convoychat)](https://github.com/isaac-lal/github-readme-stats)
 
 <br>
 
-<p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaac-lal&show_icons=true&locale=en&bg_color=000000&text_color=ffffff&repo=convoychat"
+<p><img src="https://github-readme-stats.vercel.app/api?username=isaac-lal&count_private=true&show_icons=true&include_all_commits=true&locale=en&bg_color=000000&text_color=ffffff&repo=convoychat"
     alt="isaaclal" /></p>
 
 <br>
