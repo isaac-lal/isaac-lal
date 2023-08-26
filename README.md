@@ -204,4 +204,10 @@
 <br>
 
 <details>
-    <summary> <h3>👨‍💻 Isaac's Coding Journey</h3> </summary>
+    <summary> <h3>👨‍💻 Isaac's Coding Journey</h3>  </summary>
+
+I am a self-taught developer who is passionate about delivering functional applications that is aesthetically pleasing and seamless for the user. Interacting with websites from a young age, I was very intrigued by the steps needed to build them. Aspects like the design, the buttons, the load speed, and the features really made me want to be a part of the process in developing them.
+
+My own journey started off by following tutorials on YouTube on how to build really simple websites with basic HTML and CSS. Then, I included some JavaScript to add animations and functionality. Once I mastered the basics, I entered the world of full-stack web development, utilizing knowledge of various frameworks, libraries, databases, and services. These skills have allowed me to configure both the front-end and back-end of an application to serve a smooth and consistent development process.
+
+Eager to grow my knowledge, I have consistently been learning every day from many resources to improve my skills. Having a growth mindset towards development has allowed me to understand key concepts and translate them into a fully fledged application. With these skills that I have learned, I am able to create functional products that perform well and looks great. I am super excited to continue learning more every single day to expand my knowledge and provide the best experience to my users.
