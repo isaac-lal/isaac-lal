@@ -177,7 +177,7 @@
 <h3 align="left">📊 Statistics</h3>
 <p> <img src="https://github-profile-trophy.vercel.app/?username=isaac-lal&theme=darkhub" alt="isaaclal" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lal&langs_count=8&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lal&langs_count=8&hide=makefile,scss,typescript&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
 
 <br>
 
