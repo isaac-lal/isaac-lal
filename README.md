@@ -181,7 +181,7 @@ coming soon.
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=isaac-lal&count_private=true&show_icons=true&include_all_commits=true&locale=en&bg_color=000000&text_color=ffffff"
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=isaac-lal&count_private=true&show_icons=true&include_all_commits=true&locale=en&bg_color=000000&text_color=ffffff"
     alt="isaaclal" /></p>
 
 <br>
