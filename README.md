@@ -59,7 +59,7 @@
 <h3>👔 Resume</h3>
 
 <div align="center">
-<img align="center" src="resume.png">
+coming soon.
 </div>
 
 <br>
