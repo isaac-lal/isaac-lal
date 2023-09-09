@@ -4,9 +4,9 @@
 
 [Isaac Lal](https://isaaclal.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
-**`Software Engineer`**
+**`Full-Stack Web Developer`**
 
-<h4>I'm a Software Engineer that specializes in full-stack web development. I am looking to be a part of the process of making beautiful, responsive, and functional applications and learning every single day to improve my skills. With the belief that my work ethic and dedication can contribute to something great, I hope to have the opportunity to deliver that same experience with you.</h4>
+<h4>I'm a self-taught Full-Stack Web Developer with a strong passion for creating web applications. I constantly improve my skills through practical experience and a love for learning. My main goal is to design attractive interfaces and dependable features for user-friendly experiences. I'm driven by a relentless desire for growth, always eager to explore new technologies and push my limits in this ever-evolving field.</h4>
 
 <img src="https://komarev.com/ghpvc/?username=isaac-lal&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
