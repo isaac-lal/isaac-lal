@@ -51,7 +51,6 @@
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![Stripe](https://img.shields.io/static/v1?style=for-the-badge&message=Stripe&color=008CDD&logo=Stripe&logoColor=FFFFFF&label=)
 ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
-![RESTful APIs](https://img.shields.io/static/v1?style=for-the-badge&message=RESTful+APIs&color=crimson&logoColor=FFFFFF&label=)
 
 <br>
 <br>
