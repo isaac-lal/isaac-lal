@@ -4,9 +4,9 @@
 
 [Isaac Lal](https://isaaclal.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
-**`Full-Stack Web Developer`**
+**`Web Developer`**
 
-<h4>I'm a Full-Stack Web Developer with a strong passion for creating web applications. I constantly improve my skills through practical experience and a love for learning. My main goal is to design attractive interfaces and dependable features for user-friendly experiences. I'm driven by a relentless desire for growth, always eager to explore new technologies and push my limits in this ever-evolving field.</h4>
+<h4>I'm a Web Developer with a strong passion for creating web applications. I constantly improve my skills through practical experience and a love for learning. My main goal is to design attractive interfaces and dependable features for user-friendly experiences. I'm driven by a relentless desire for growth, always eager to explore new technologies and push my limits in this ever-evolving field.</h4>
 
 <img src="https://komarev.com/ghpvc/?username=isaac-lal&label=Profile%20views&color=0e75b6&style=flat"
     alt="isaaclal" />
@@ -191,7 +191,7 @@ coming soon.
 <details>
     <summary> <h3>👨‍💻 Isaac's Coding Journey</h3>  </summary>
 
-I'm a Full-Stack Web Developer who loves creating functional applications that are pleasing to look at and easy to use. I've been using websites since I was young, relying on them for entertainment and information every day. The web has changed my personal life a lot and got me curious about the steps to build websites. Things like design, efficiency, and features, and how they work together, made me really want to learn how to make them myself. This led me to want to join the process of making web applications so that other people can feel the same happiness I have felt.
+I'm a Web Developer, specializing in full-stack, who loves creating functional applications that are pleasing to look at and easy to use. I've been using websites since I was young, relying on them for entertainment and information every day. The web has changed my personal life a lot and got me curious about the steps to build websites. Things like design, efficiency, and features, and how they work together, made me really want to learn how to make them myself. This led me to want to join the process of making web applications so that other people can feel the same happiness I have felt.
 
 My journey began by following tutorials on YouTube to create simple websites using basic HTML and CSS. Later, I added JavaScript for functionality and custom animations. I made numerous small projects and a couple of larger websites before advancing. After mastering the basics, I dove into frameworks, libraries, databases, and services. This allowed me to explore Full-Stack Web Development deeply. These skills enabled me to set up both the front-end and back-end of applications, ensuring a seamless and steady development process.
 
