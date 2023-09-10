@@ -67,7 +67,7 @@ coming soon.
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="640" height="360">
     </a>
 
 <br>
@@ -91,7 +91,7 @@ coming soon.
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="640" height="360">
     </a>
 
 <br>
@@ -116,7 +116,7 @@ coming soon.
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="640" height="360">
     </a>
 
 <br>
@@ -139,7 +139,7 @@ coming soon.
 <h3 align="center">Upcoming Project</h3>
   <div align="center">  
     <a href='#' target="_blank">
-      <img align="center" src="coming-soon.jpeg" width="400" height="225">
+      <img align="center" src="coming-soon.jpeg" width="640" height="360">
     </a>
 
 <br>
