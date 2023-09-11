@@ -77,7 +77,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Todo List</h3>
   <div align="center">  
-      <img align="center" src="projects/todo-list.png" width="320" height="180">
+      <img align="center" src="projects/todo-list.png" width="320" height="360">
 
 <br>
 <br>	  
@@ -147,7 +147,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Calculator</h3>
   <div align="center">  
-      <img align="center" src="projects/calculator.png" width="320" height="180">
+      <img align="center" src="projects/calculator.png" width="640" height="180">
 
 <br>
 <br>	  
