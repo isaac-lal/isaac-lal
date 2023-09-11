@@ -75,99 +75,100 @@ coming soon.
 <tr>
 
 <td width="50%">
-<h3 align="center">Upcoming Project</h3>
+<h3 align="center">Todo List</h3>
   <div align="center">  
-    <a href='#' target="_blank">
-      <img align="center" src="coming-soon.jpeg" width="640" height="360">
-    </a>
+      <img align="center" src="todo-list.jpeg" width="640" height="360">
 
 <br>
 <br>	  
 <p>
-  <a href="#" target="_blank">
+  <a href="https://github.com/isaac-lal/local-todo-list" target="_blank">
     <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://local-todo-list.isaaclal.com/" target="_blank">
     <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
+
+<p>This is a todo list that runs locally on the website and tracks tasks with CRUD functionality.</p>
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 
 </p>
-<p>Enjoy!</p>
 </td>		
 	
 <td width="50%">
-<h3 align="center">Upcoming Project</h3>
+<h3 align="center">Weather App</h3>
   <div align="center">  
-    <a href='#' target="_blank">
-      <img align="center" src="coming-soon.jpeg" width="640" height="360">
-    </a>
+      <img align="center" src="weather-app.jpeg" width="640" height="360">
 
 <br>
 <br>	  
 <p>
-  <a href="#" target="_blank">
+  <a href="https://github.com/isaac-lal/minimal-weather-app" target="_blank">
     <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://minimal-weather-app.isaaclal.com/" target="_blank">
     <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
+
+<p>This is a minimal weather app that tracks temperature, min, max, feels like, humidity, pressure, and wind speed.</p>
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
-
 </p>
-<p>Enjoy!</p>
+
 </tr>
 <tr>
 </td>
 <td width="50%">
-<h3 align="center">Upcoming Project</h3>
+<h3 align="center">Entertainment Search</h3>
   <div align="center">  
-    <a href='#' target="_blank">
-      <img align="center" src="coming-soon.jpeg" width="640" height="360">
-    </a>
+      <img align="center" src="entertainment-search.jpeg" width="640" height="360">
 
 <br>
 <br>	  
 <p>
-  <a href="#" target="_blank">
+  <a href="https://github.com/isaac-lal/simple-entertainment-search" target="_blank">
     <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://simple-entertainment-search.isaaclal.com/" target="_blank">
     <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
+
+<p>This is an entertainment search app that uses the OMDB API to search up movies, tv shows, and games.</p>
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 
 </p>
-<p>Enjoy!</p>
+
 </td>		
 <td width="50%">
-<h3 align="center">Upcoming Project</h3>
+<h3 align="center">Calculator</h3>
   <div align="center">  
-    <a href='#' target="_blank">
-      <img align="center" src="coming-soon.jpeg" width="640" height="360">
-    </a>
+      <img align="center" src="calculator.jpeg" width="640" height="360">
 
 <br>
 <br>	  
 <p>
-  <a href="#" target="_blank">
+  <a href="https://github.com/isaac-lal/calculator" target="_blank">
     <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://calculator.isaaclal.com/" target="_blank">
     <img src="https://img.shields.io/badge/Demo-lightgrey?style=for-the-badge&logo=youtube&color=0892d0"/>
   </a>
 </p>
+
+<p>This is a calculator application that can be used to add, subtract, multiply, and divide recurring numbers.</p>
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
 
 </p>
-<p>Enjoy!</p>
 </tr>
 
 </table>
