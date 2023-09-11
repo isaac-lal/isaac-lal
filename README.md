@@ -77,7 +77,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Todo List</h3>
   <div align="center">  
-      <img align="center" src="todo-list.jpeg" width="640" height="360">
+      <img align="center" src="projects/todo-list.jpeg" width="320" height="180">
 
 <br>
 <br>	  
@@ -101,7 +101,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Weather App</h3>
   <div align="center">  
-      <img align="center" src="weather-app.jpeg" width="640" height="360">
+      <img align="center" src="projects/weather-app.jpeg" width="320" height="180">
 
 <br>
 <br>	  
@@ -126,7 +126,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Entertainment Search</h3>
   <div align="center">  
-      <img align="center" src="entertainment-search.jpeg" width="640" height="360">
+      <img align="center" src="projects/entertainment-search.jpeg" width="320" height="180">
 
 <br>
 <br>	  
@@ -150,7 +150,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Calculator</h3>
   <div align="center">  
-      <img align="center" src="calculator.jpeg" width="640" height="360">
+      <img align="center" src="projects/calculator.jpeg" width="320" height="180">
 
 <br>
 <br>	  
