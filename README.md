@@ -77,7 +77,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Todo List</h3>
   <div align="center">  
-      <img align="center" src="projects/todo-list.jpeg" width="320" height="180">
+      <img align="center" src="projects/todo-list.png" width="320" height="180">
 
 <br>
 <br>	  
@@ -90,7 +90,6 @@ coming soon.
   </a>
 </p>
 
-<p>This is a todo list that runs locally on the website and tracks tasks with CRUD functionality.</p>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
@@ -101,7 +100,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Weather App</h3>
   <div align="center">  
-      <img align="center" src="projects/weather-app.jpeg" width="320" height="180">
+      <img align="center" src="projects/weather-app.png" width="320" height="180">
 
 <br>
 <br>	  
@@ -114,7 +113,6 @@ coming soon.
   </a>
 </p>
 
-<p>This is a minimal weather app that tracks temperature, min, max, feels like, humidity, pressure, and wind speed.</p>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
@@ -126,7 +124,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Entertainment Search</h3>
   <div align="center">  
-      <img align="center" src="projects/entertainment-search.jpeg" width="320" height="180">
+      <img align="center" src="projects/entertainment-search.png" width="320" height="180">
 
 <br>
 <br>	  
@@ -139,7 +137,6 @@ coming soon.
   </a>
 </p>
 
-<p>This is an entertainment search app that uses the OMDB API to search up movies, tv shows, and games.</p>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
@@ -150,7 +147,7 @@ coming soon.
 <td width="50%">
 <h3 align="center">Calculator</h3>
   <div align="center">  
-      <img align="center" src="projects/calculator.jpeg" width="320" height="180">
+      <img align="center" src="projects/calculator.png" width="320" height="180">
 
 <br>
 <br>	  
@@ -163,7 +160,6 @@ coming soon.
   </a>
 </p>
 
-<p>This is a calculator application that can be used to add, subtract, multiply, and divide recurring numbers.</p>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/>
