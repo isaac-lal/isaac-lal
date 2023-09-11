@@ -34,7 +34,6 @@
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=blue&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=red&logo=Express&logoColor=FFFFFF&label=)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![RESTful APIs](https://img.shields.io/static/v1?style=for-the-badge&message=RESTful+APIs&color=crimson&logoColor=FFFFFF&label=)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <h4>Developer Tools<h4>
