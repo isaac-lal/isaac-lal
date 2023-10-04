@@ -35,19 +35,16 @@
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 
 <br>
-<br>
 
 <!-- STATS -->
 ### 📊 Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lal&langs_count=8&hide=makefile,scss,typescript,c%2b%2b,python&bg_color=000000&text_color=ffffff)](https://github.com/isaac-lal/github-readme-stats)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=isaac-lal&count_private=true&show_icons=true&include_all_commits=true&locale=en&bg_color=000000&text_color=ffffff"
-    alt="isaaclal" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=isaac-lal&count_private=true&show_icons=true&include_all_commits=true&locale=en&bg_color=000000&text_color=ffffff" alt="isaaclal" />
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-lal&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-lal&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" />
 
-<br>
 <br>
 
 <details>
