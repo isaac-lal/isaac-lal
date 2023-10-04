@@ -1,11 +1,10 @@
-# Hello World, I'm [Isaac Lal](https://isaaclal.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+# [Isaac Lal](https://isaaclal.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 
 **`Web Developer`**
 
 <h4>I'm a Web Developer with a strong passion for creating web applications. I constantly improve my skills through practical experience and a love for learning. My main goal is to design attractive interfaces and dependable features for user-friendly experiences. I'm driven by a relentless desire for growth, always eager to explore new technologies and push my limits in this ever-evolving field.</h4>
 
-<img src="https://komarev.com/ghpvc/?username=isaac-lal&label=Profile%20views&color=0e75b6&style=flat"
-    alt="isaaclal" />
+<img src="https://komarev.com/ghpvc/?username=isaac-lal&label=Profile%20views&color=0e75b6&style=flat" alt="isaaclal" />
 
 ---
 
@@ -34,7 +33,6 @@
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=F7B93E&logo=Prettier&logoColor=black&label=)
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
-
 <br>
    
 <!-- STATS -->
