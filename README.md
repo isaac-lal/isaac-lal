@@ -33,8 +33,10 @@
 ![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
 ![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=F7B93E&logo=Prettier&logoColor=black&label=)
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
+
 <br>
-   
+<br>
+
 <!-- STATS -->
 ### 📊 Statistics
 
@@ -45,6 +47,7 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isaac-lal&theme=dark&&background=000000&date_format=M%20j%5B%2C%20Y%5D" alt="isaaclal" /></p>
 
+<br>
 <br>
 
 <details>
