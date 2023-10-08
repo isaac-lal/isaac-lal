@@ -10,30 +10,7 @@
 
 ### 🖥️ Skills
 
-#### Programming Languages
-
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
-
-#### Frameworks and Libraries
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=hotpink&logo=Vite&logoColor=FFFFFF&label=)
-![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
-![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=red&logo=Express&logoColor=FFFFFF&label=)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Developer Tools 
-
-![Git](https://img.shields.io/badge/git-darkorange.svg?style=for-the-badge&logo=git&logoColor=white)
-![Mac](https://img.shields.io/badge/MacOS-white.svg?style=for-the-badge&logo=apple&logoColor=black)
-![VS_Code](https://img.shields.io/badge/vs_code-%231572B6.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Chrome&color=4285F4&logo=Google+Chrome&logoColor=FFFFFF&label=)
-![Prettier](https://img.shields.io/static/v1?style=for-the-badge&message=Prettier&color=F7B93E&logo=Prettier&logoColor=black&label=)
-![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,vite,nextjs,tailwindcss,git)](https://skillicons.dev)
 
 <br>
 
@@ -51,8 +28,8 @@
 <details>
     <summary> <h3>👨‍💻 Isaac's Coding Journey</h3>  </summary>
 
-I'm a Web Developer, specializing in full-stack, who loves creating functional applications that are pleasing to look at and easy to use. I've been using websites since I was young, relying on them for entertainment and information every day. The web has changed my personal life a lot and got me curious about the steps to build websites. Things like design, efficiency, and features, and how they work together, made me really want to learn how to make them myself. This led me to want to join the process of making web applications so that other people can feel the same happiness I have felt.
+I'm a Web Developer, specializing in front-end, who loves creating functional applications that are pleasing to look at and easy to use. I've been using websites since I was young, relying on them for entertainment and information every day. The web has changed my personal life and improved it in so many ways. Due to that, it got me curious about the steps needed to build websites. Details like design, features, and ease of use made me really want to learn how to make websites myself. This led me to want to look into the process of making web applications that other people can use.
 
-My journey began by following tutorials on YouTube to create simple websites using basic HTML and CSS. Later, I added JavaScript for functionality and custom animations. I made numerous small projects and a couple of larger websites before advancing. After mastering the basics, I dove into frameworks, libraries, databases, and services. This allowed me to explore Full-Stack Web Development deeply. These skills enabled me to set up both the front-end and back-end of applications, ensuring a seamless and steady development process.
+My journey began by following tutorials on YouTube to create simple websites using basic HTML and CSS. Later, I added JavaScript for functionality and dynamic design. I made numerous small projects with these vanilla technologies before advancing into my journey. After mastering the basics, I dove into React using the Vite build tool. I spent a lot of time on React before getting really good and learned how to use Git version control to keep track of my work. Afterwards, I utilized Next.js as a superset of React and improved styling efficiency with TailwindCSS. These skills enabled me to set up and ensure a seamless and steady development process.
 
-Eager to expand my knowledge, I've consistently been learning every day from various resources to improve my skills. Going from knowing nothing about the web to having a solid concept of what it involves makes me want to learn even more. Adopting a growth mindset toward development has enabled me to understand key concepts and turn them into complete applications. With these acquired skills, I'm able to create functional software that work well and look impressive. I'm very excited to keep learning more each day, to increase my knowledge and provide the best experience to my users.
+Going from knowing nothing about the web to having a solid concept of what it involves makes me want to learn even more. Adopting a growth mindset toward development has enabled me to understand key concepts and turn them into complete applications. With these acquired skills as my stack, I'm able to create functional software that work well and look impressive. I'm very excited to keep learning more each day, to increase my knowledge and provide the best experience to my users.
