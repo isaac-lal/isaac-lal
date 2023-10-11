@@ -10,7 +10,7 @@
 
 ### 🖥️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,vite,nextjs,tailwindcss,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,vite,redux,nextjs,tailwindcss,sass,git,vscode,vercel)](https://skillicons.dev)
 
 <br>
 
