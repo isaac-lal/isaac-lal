@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-#### I'm a Web Developer with a strong passion for creating web applications. I constantly improve my skills through practical experience and a love for learning. My main goal is to design attractive interfaces and dependable features for user-friendly experiences. I'm driven by a relentless desire for growth, always eager to explore new technologies and push my limits in this ever-evolving field.
+I'm a Web Developer with a strong passion for creating web applications. I constantly improve my skills through practical experience and a love for learning. My main goal is to design attractive interfaces and dependable features for user-friendly experiences. I'm driven by a relentless desire for growth, always eager to explore new technologies and push my limits in this ever-evolving field.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=isaac-lal)
 
