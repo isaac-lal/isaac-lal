@@ -19,13 +19,3 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaac-lal&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <br>
-
-<details>
-    <summary> <h3>👨‍💻 Isaac's Coding Journey</h3>  </summary>
-
-I've been using websites since I was young, relying on them for entertainment and information every day. The web has changed my personal life and improved it in so many ways. Due to that, it got me curious about the steps needed to build websites. Details like design, features, and ease of use made me really want to learn how to make websites myself. I was then motivated to look into the process of making web applications that other people can use.
-
-My journey began by following tutorials on YouTube to create simple websites using basic HTML and CSS. Later, I added JavaScript for dynamic functionality. I made numerous small projects with these vanilla technologies before advancing into my journey. After mastering the basics, I dove into React using the Vite build tool, which I spent a lot of time to get good on. This was just the beginning of my journey. Since then, I have learned a ton of new technology to keep my knowledge up to date and be as efficient as possible.
-
-Going from knowing nothing about the web to having a solid concept of what it involves makes me want to learn even more. Adopting a growth mindset toward development has enabled me to understand key concepts and turn them into complete applications. With these acquired skills, I'm able to create functional software that works well and looks impressive. I'm very excited to keep learning more each day, to increase my knowledge and provide the best experience to my users.
-
