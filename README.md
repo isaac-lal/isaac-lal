@@ -8,7 +8,7 @@ I'm a Web Developer with a strong passion for creating web applications. I const
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,nodejs,express,nextjs,tailwindcss,git,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,postgres,nodejs,express,tailwindcss,git,vscode,vercel)](https://skillicons.dev)
 
 <!-- STATS -->
 
