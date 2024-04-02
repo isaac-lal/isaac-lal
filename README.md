@@ -2,7 +2,7 @@
 
 **`Aspiring Software Engineer`**
 
-I'm a Aspiring Software Engineer with a strong passion for creating web applications. I constantly improve my skills through practical experience and a love for learning. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm driven by a relentless desire for growth, always eager to explore new technologies and push my limits in this ever-evolving field.
+I'm a Aspiring Software Engineer with a strong passion for constantly improving my skills through practical experience and a love for learning. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I'm driven by a relentless desire for growth, always eager to explore new technologies and push my limits in this ever-evolving field.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=isaac-lal)
 
