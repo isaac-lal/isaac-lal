@@ -12,7 +12,7 @@ I'm a Aspiring Software Engineer with a strong passion for creating web applicat
 
 <!-- STATS -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lal&hide=makefile,typescript,scss,c%2b%2b,python&theme=transparent&hide_border=true)](https://github.com/isaac-lal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaac-lal&theme=transparent&hide_border=true)](https://github.com/isaac-lal/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaac-lal&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide=issues,contribs&theme=transparent&hide_border=true&rank_icon=github)
 
