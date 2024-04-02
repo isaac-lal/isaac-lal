@@ -8,7 +8,7 @@ I'm a Aspiring Software Engineer with a strong passion for creating web applicat
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,nodejs,express,tailwindcss,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,git,vscode,vercel)](https://skillicons.dev)
 
 <!-- STATS -->
 
