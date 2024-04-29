@@ -2,7 +2,7 @@
 
 **`Coder`**
 
-Hey there! Welcome to my coding hub! I'm learning how to code out of pure curiosity and for fun! I have no plans to monetize my coding, as doing it for the money makes me feel less interested and overall I have less fun. I love to build cool projects with various useful technologies, frameworks, and libraries. It is very intriguing to me when I am putting all the pieces together, figuring out what needs to be utilized to build a certain application or feature. However, I am very eager to build a simple application or project for my friends, as it will not only improve my skills but make me feel better about contributing to a major achievement! Eager to expand my knowledge, I am consistently learning whenever I have free-time as I do find coding/programming/development to be very intriguing.
+Hey there! Welcome to my coding hub! I'm learning how to code out of pure curiosity and for fun! I have no plans to monetize my coding, as doing it for the money makes me feel less interested and overall have less fun. I love to build cool projects with various useful technologies, frameworks, and libraries. It is very intriguing to me when I am putting all the pieces together, figuring out what needs to be utilized to build a certain application or feature. However, I am very eager to build a simple application or project for my friends, as it will not only improve my skills but make me feel better about contributing to a major achievement! Eager to expand my knowledge, I am consistently learning whenever I have free-time as I do find coding/programming/development to be very intriguing.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=isaac-lal)
 
