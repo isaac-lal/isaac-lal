@@ -17,5 +17,3 @@ I'm currently in the process of learning how to code and build projects out of p
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaac-lal&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide=issues,contribs&theme=transparent&hide_border=true&rank_icon=github)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaac-lal&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
-<br>
