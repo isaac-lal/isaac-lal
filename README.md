@@ -2,7 +2,7 @@
 
 **`Coder`**
 
-I'm a student studying Accounting in college, while learning how to code on the side. At the moment, I mostly code for fun rather than monetization. Building cool projects by using various technologies and libraries is very intriguing when putting all the pieces together and figuring out what needs to be utilized to build a certain feature. Eager to expand my knowledge, I am consistently learning whenever I have free-time as I do find coding/programming/development to be very intriguing!
+I'm learning how to code out of pure curiosity and for fun! I love to build cool projects with various useful technologies, frameworks, and libraries. It is very intriguing to me when I am putting all the pieces together, figuring out what needs to be utilized to build a certain application or feature. I love to code for fun, and have no plans to monetize my coding. However, I am very eager to build a simple application or project for my friends, as it will not only improve my skills but make me feel better about contributing to a major achievement! Eager to expand my knowledge, I am consistently learning whenever I have free-time as I do find coding/programming/development to be very intriguing.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=isaac-lal)
 
