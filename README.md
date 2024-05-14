@@ -8,7 +8,7 @@ I'm currently in the process of learning how to code and build projects out of p
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,python,cpp,git,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,nodejs,express,nextjs,tailwindcss,git,vscode,vercel)](https://skillicons.dev)
 
 <!-- STATS -->
 
