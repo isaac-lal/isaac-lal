@@ -1,8 +1,8 @@
 # [Isaac Lal](https://isaaclal.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 
-**`Coder`**
+**`Recreational Coder`**
 
-I'm currently in the process of learning how to code and build projects out of pure curiosity and for fun. I have no plans to monetize my coding, as I feel that doing it for the money makes me feel less interested and overall have less fun. I love to build cool projects with various useful technologies, frameworks, and libraries. It is very intriguing to me when I am putting all the pieces together, figuring out what needs to be utilized to build a certain application or feature. Building a simple application or project for my friends, finding a tutorial on YouTube, or even building my own projects from scratch have greatly improved my coding skills, but there is still a lot more to learn. Eager to expand my knowledge, I am consistently learning whenever I have free-time as I do find programming to be very intriguing.
+Hello, World! I'm learning how to code for recreational purposes and teaching myself how to build projects with relevant programming languages and libraries. I'm having a lot of fun building projects that are useful and cool while learning a lot along the way. It is very intriguing to me when I am putting all the pieces together, figuring out what needs to be utilized to build a certain application or feature. Currently, my main method of learning is with YouTube, whether it be for learning the programming language or building a project from scratch. With this knowledge, I am able to think about the certain components and steps needed to build my own projects from scratch. Although there is still a lot more to learn, I am eager to expand my knowledge and I am consistently learning whenever I have free-time as I do find software to be very intriguing!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=isaac-lal)
 
