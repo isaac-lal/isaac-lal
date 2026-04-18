@@ -1,7 +1,7 @@
 # [Isaac Lal](https://isaaclal.com/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 **`Coder`**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mongodb,express,nodejs,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,react,nextjs,tailwind,mongodb,express,nodejs,netlify,vscode)](https://skillicons.dev)
 
 ---
 
