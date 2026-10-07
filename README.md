@@ -1,4 +1,4 @@
-# [Isaac Lal](https://isaaclal.site/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+# [Isaac Lal](https://isaaclal.dev/) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
 
 **`Web Developer`**
 
