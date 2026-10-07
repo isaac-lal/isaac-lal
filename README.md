@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-#### Welcome to my GitHub! Here you can see all my coding projects that I've been working on. I specialize in web development with web management and design, but have dabbled in game development, app development, and DevOps. Coding is a genuine interest of mine as I have seen how many cool projects and mods can result from it. These projects and mods inspire me to continue learning coding as a concept, and and will continue to inspire me to make my own projects and commits. I hope you enjoy!
+#### Welcome to my GitHub! Here you can see all my coding projects that I've been working on. I specialize in web development with web management and design, but have dabbled in game development, app development, and DevOps. Coding is a genuine interest of mine as I have seen how many cool projects and mods can result from it. These projects and mods inspire me to continue learning how to develop cool projects and contribute to open source. I hope you enjoy!
 
 #### CURRENTLY WORKING ON: reverting personal website back to original. 
 
