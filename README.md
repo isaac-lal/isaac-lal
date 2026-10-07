@@ -2,9 +2,9 @@
 
 **`Web Developer`**
 
-#### Welcome to my GitHub! Here you can see all my coding projects that I've been working on. I specialize in Web Development as I've been intrigued in the design of websites and functionality of the web. I mostly code for fun as it is a genuine interest of mine seeing how many cool projects can result from code! I am very passionate about the web and will continue to make projects and commits whenever interested. I hope you enjoy!
+#### Welcome to my GitHub! Here you can see all my coding projects that I've been working on. I specialize in web development with web management and design, but have dabbled in game development, app development, and DevOps. Coding is a genuine interest of mine as I have seen how many cool projects and mods can result from it. These projects and mods inspire me to continue learning coding as a concept, and and will continue to inspire me to make my own projects and commits. I hope you enjoy!
 
-#### CURRENTLY WORKING ON: changing the theme of my personal website. 
+#### CURRENTLY WORKING ON: reverting personal website back to original. 
 
 ---
 
